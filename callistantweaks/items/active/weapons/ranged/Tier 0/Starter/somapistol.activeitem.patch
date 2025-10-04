@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "Packed with every Soma Supply Ship. Fires fletchettes. Hold trigger for rebound mode."
+    },
+	{
+        "op": "replace",
+        "path": "/tooltipKind",
+        "value": "gun2"
+    },
+	{
+        "op": "replace",
+        "path": "/elementalType",
+        "value": "physical"
+    }
+]

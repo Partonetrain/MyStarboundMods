@@ -1,0 +1,67 @@
+[
+    {
+        "op": "add",
+        "path": "/scriptConfig/skipIntroItems/-",
+        "value": "protectoratechest"
+    },
+    {
+        "op": "add",
+        "path": "/scriptConfig/skipIntroItems/-",
+        "value": "protectoratepants"
+    },
+    {
+        "op": "add",
+        "path": "/scriptConfig/skipIntroItems/-",
+        "value": "protectorateflowerhead"
+    },
+    {
+        "op": "add",
+        "path": "/scriptConfig/skipIntroItems/-",
+        "value": "raggedprotectoratecape"
+    },
+	{
+        "op": "add",
+        "path": "/scriptConfig/skipIntroItems/-",
+        "value": "protectorateflyer"
+    },
+    {
+        "op": "add",
+        "path": "/scriptConfig/skipIntroItems/-",
+        "value": [
+            "money",
+            170
+        ]
+    },
+	{
+        "op": "add",
+        "path": "/scriptConfig/skipIntroItems/-",
+        "value": [
+            "bandage",
+            2
+        ]
+    },
+	{
+        "op": "add",
+        "path": "/scriptConfig/skipIntroItems/-",
+        "value": [
+            "salve",
+            3
+        ]
+    },
+	{
+        "op": "add",
+        "path": "/scriptConfig/skipIntroItems/-",
+        "value": [
+            "grassy",
+            35
+        ]
+    },
+	{
+        "op": "add",
+        "path": "/scriptConfig/skipIntroItems/-",
+        "value": [
+            "drydirt",
+            75
+        ]
+    }
+]

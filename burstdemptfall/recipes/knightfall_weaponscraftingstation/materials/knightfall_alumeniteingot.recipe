@@ -1,0 +1,14 @@
+{
+  "input" : [
+    { "item" : "pf_chroniumbar", "count" : 2 },
+	{ "item" : "pf_shadowstar", "count" : 1 },
+	{ "item" : "uraniumrod", "count" : 1 },
+	{ "item" : "pf_scorchedrod", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "knightfall_alumeniteingot",
+    "count" : 1
+  },
+  "duration" : 0,
+  "groups" : [ "knightfall_weaponscraftingstation", "knightfall_craftingmaterials", "bars", "all" ]
+}

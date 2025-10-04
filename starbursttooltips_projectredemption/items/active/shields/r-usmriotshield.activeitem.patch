@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/tooltipKind",
+        "value": "pf_uniqueshield"
+    },
+	{
+        "op": "replace",
+        "path": "/description",
+        "value": "A blinding light in a dark world. ^red;Cannot parry.^white;"
+    }
+]

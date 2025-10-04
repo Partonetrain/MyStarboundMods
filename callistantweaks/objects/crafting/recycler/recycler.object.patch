@@ -1,0 +1,37 @@
+[
+	{
+        "op": "replace",
+        "path": "/description",
+        "value": "A salvaging station of Callistan origin."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "I've heard some strange tales of this contraption."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "Trepidation. I hope this machine does not break Glitch down."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "Some kind of machine that breaks things down."
+    },
+    {
+        "op": "add",
+        "path": "/nekoDescription",
+        "value": "This thing tears things apart, kind of like how I scratched up a couch that one time."
+    },
+	{
+        "op": "add",
+        "path": "/veluuDescription",
+        "value": "This thing tears things apart, kind of like how I scratched up a couch that one time."
+    },
+	{
+        "op": "add",
+        "path": "/catDescription",
+        "value": "This thing tears things apart, kind of like how I scratched up a couch that one time. Meow!"
+    }
+]

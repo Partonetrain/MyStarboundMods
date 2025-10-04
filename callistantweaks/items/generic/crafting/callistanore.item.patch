@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "It's mechanicum ore, often used in Callistan constructions."
+    }
+]

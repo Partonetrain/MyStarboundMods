@@ -1,0 +1,12 @@
+{
+  "name" : "taterlove",
+  "defaultDuration" : 3600,
+  "scripts" : [
+    "taterlove.lua"
+  ],
+  
+  "animationConfig" : "taterlove.animation",
+  
+  "label" : "Tater believes in you! Increased mobility!",
+  "icon" : "/objects/trainmod/tinypotato/tinypotato.png"
+}

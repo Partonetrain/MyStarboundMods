@@ -1,0 +1,32 @@
+[
+	{
+        "op": "replace",
+        "path": "/builder",
+        "value": "/items/buildscripts/pf_buildunrandshield.lua"
+    },
+    {
+        "op": "replace",
+        "path": "/tooltipKind",
+        "value": "pf_uniqueshield"
+    },
+    {
+        "op": "add",
+        "path": "/level",
+        "value": 7
+    },
+	{
+        "op": "replace",
+        "path": "/stances/raised/allowRotate",
+        "value": false
+    },
+    {
+        "op": "replace",
+        "path": "/stances/idle/allowRotate",
+        "value": false
+    },
+	{
+        "op": "replace",
+        "path": "/description",
+        "value": "A shield built for speed. ^green;Allows for running while blocking.^white;"
+    }
+]

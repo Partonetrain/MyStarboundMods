@@ -1,0 +1,87 @@
+[
+    {
+        "op": "replace",
+        "path": "/taurikinDescription",
+        "value": "How much vending machines could a vending machine vend if a vending machine could vend vending machines?"
+    },
+    {
+        "op": "replace",
+        "path": "/deerkinDescription",
+        "value": "How much vending machines could a vending machine vend if a vending machine could vend vending machines?"
+    },
+    {
+        "op": "replace",
+        "path": "/mauskinDescription",
+        "value": "How much vending machines could a vending machine vend if a vending machine could vend vending machines?"
+    },
+    {
+        "op": "replace",
+        "path": "/clownkinDescription",
+        "value": "How much vending machines could a vending machine vend if a vending machine could vend vending machines?"
+    },
+    {
+        "op": "replace",
+        "path": "/terrakinDescription",
+        "value": "How much vending machines could a vending machine vend if a vending machine could vend vending machines?"
+    },
+    {
+        "op": "replace",
+        "path": "/skelekinDescription",
+        "value": "How much vending machines could a vending machine vend if a vending machine could vend vending machines?"
+    },
+    {
+        "op": "replace",
+        "path": "/bunnykinDescription",
+        "value": "How much vending machines could a vending machine vend if a vending machine could vend vending machines?"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "How much vending machines could a vending machine vend if a vending machine could vend vending machines?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "How much vending machines could a vending machine vend if a vending machine could vend vending machines?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "How much vending machines could a vending machine vend if a vending machine could vend vending machines?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "How much vending machines could a vending machine vend if a vending machine could vend vending machines?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "How much vending machines could a vending machine vend if a vending machine could vend vending machines?"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "How much vending machines could a vending machine vend if a vending machine could vend vending machines?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "How much vending machines could a vending machine vend if a vending machine could vend vending machines?"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "Vending Machine Vending Machine"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "^#00f9ff;Vending Machine Vending Machine^white;"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "A vending machines that dispenses other vending machines that dispense various types of clothes. Because that makes sense."
+    }
+]

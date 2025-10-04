@@ -1,0 +1,12 @@
+[
+    {
+        "op": "add",
+        "path": "/tuw_scythecombo",
+        "value": "/items/active/weapons/tuw/abilities/elegantreaperscythe/tuw_scythecombo.weaponability"
+    },
+	{
+        "op": "add",
+        "path": "/tuw_gravereaper",
+        "value": "/items/active/weapons/tuw/abilities/elegantreaperscythe/tuw_gravereaper.weaponability"
+    }
+]

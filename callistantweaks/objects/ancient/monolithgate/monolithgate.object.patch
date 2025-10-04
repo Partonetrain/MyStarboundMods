@@ -1,0 +1,20 @@
+[
+ {
+  "op": "add",
+  "path": "/callistanDescription",
+  "value":
+    "This closed gate has a missing face. Maybe it could have been a Callistan?"
+  },
+  {
+  "op": "add",
+  "path": "/calskiesDescription",
+  "value":
+    "This closed gate has a missing face. Could it have depicted a member of the Calskies?"
+  },
+  {
+  "op": "add",
+  "path": "/callioteDescription",
+  "value": 
+    "This closed gate has a missing face. Oooh, could it have been a Calliote?"
+  }
+]

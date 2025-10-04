@@ -1,0 +1,11 @@
+{
+  "author" : "Partonetrain",
+  "description" : "This is an addon to Anom's Outpost Overhaul - Gunsmith Shop Addon. This patch simply makes the Gunsmith room appear after completing The Erchius Mining Facility story quest instead of after completing Opening the Ark. It's for use with More Outpost Objects - Gunsmith rebalance (which limits the shop inventory to the stages of the story), although it is not required.\n\nIt doesn't change the appearance of the gunsmith, I just couldn't come up with a better thumbnail.",
+  "friendlyName" : "Accessible Gunsmith",
+  "includes" : ["AnomsOutpostOverhual", "More Outpost Objects", "AnomsOutpostGunsmithAddon"],
+  "link" : "steam://url/CommunityFilePage/3567753532",
+  "name" : "Acessible Gunsmith",
+  "steamContentId" : "3567753532",
+  "tags" : "Miscellaneous|Dungeons",
+  "version" : "1"
+}

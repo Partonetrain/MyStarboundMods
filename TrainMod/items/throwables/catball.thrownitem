@@ -1,0 +1,29 @@
+{
+  "itemName" : "catball",
+  "rarity" : "Common",
+  "category" : "throwableItem",
+  "inventoryIcon" : "catball.png",
+  "image" : "catball.png",
+  "shortdescription" : "Cat Ball",
+  "description" : "This ball emits an unused effectsource named \"cat\" in the vanilla game assets.\n^blue;Don't ask me why this exists.",
+
+  "ammoUsage" : 1,
+  "price": 1000,
+  "edgeTrigger" : true,
+  "windupTime" : 0.0,
+  "cooldown" : 0.4,
+
+  "projectileType" : "catball",
+  "projectileConfig" : {
+    "speed" : 30,
+    "power" : 0,
+    "periodicActions" : [
+      {
+        "time" : 0,
+        "repeat" : false,
+        "action" : "sound",
+        "options" : [ "/sfx/projectiles/throw_item_small.ogg" ]
+      }
+    ]
+  }
+}

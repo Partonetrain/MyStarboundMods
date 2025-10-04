@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "staticcell", "count" : 1 },
+	{ "item" : "uraniumrod", "count" : 4 },
+	{ "item" : "pf_shadowstar", "count" : 4 },
+	{ "item" : "cryonicextract", "count" : 4 }
+  ],
+  "output" : { "item" : "knightfall_unstablecell", "count" : 1 },
+  "duration" : 0,
+  "groups" : [ "knightfall_weaponscraftingstation", "knightfall_craftingmaterials", "ingredients", "all" ]
+}

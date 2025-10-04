@@ -1,0 +1,20 @@
+[
+  {
+  "op": "add",
+  "path": "/callistanDescription",
+  "value":
+    "Instruments aren't really a Callistan thing, we tend to stick to radios and records."
+  },
+  {
+  "op": "add",
+  "path": "/calskiesDescription",
+  "value":
+    "Instruments aren't really a part of the Calskies' culture. We tend to stick to radios and records."
+  },
+  {
+  "op": "add",
+  "path": "/callioteDescription",
+  "value": 
+    "Instruments aren't really a Calliote thing, we tend to stick to radios and records."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+  "op": "add",
+  "path": "/callistanDescription",
+  "value":
+    "A burglar could just bring a blowtorch to melt this down and get in."
+  },
+  {
+  "op": "add",
+  "path": "/calskiesDescription",
+  "value":
+    "Calskies prefer stone or metal doors, but ice can be used as long as burglars don't bring blowtorches."
+  },
+  {
+  "op": "add",
+  "path": "/callioteDescription",
+  "value": 
+    "A door like this wouldn't be very effective in the desert." 
+  }
+]

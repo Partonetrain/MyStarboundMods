@@ -1,0 +1,38 @@
+[
+    {
+        "op": "remove",
+        "path": "/goodWeapon/2/1/pool/7"
+    },
+    {
+        "op": "replace",
+        "path": "/goodWeapon/2/1/pool/6/weight",
+        "value": 0.08
+    },
+    {
+        "op": "remove",
+        "path": "/goodWeapon/1/1/pool/7"
+    },
+    {
+        "op": "replace",
+        "path": "/goodWeapon/1/1/pool/6/weight",
+        "value": 0.04
+    },
+    {
+        "op": "remove",
+        "path": "/valuableTreasure/3/1/pool/8"
+    },
+    {
+        "op": "replace",
+        "path": "/valuableTreasure/3/1/pool/7/weight",
+        "value": 0.05
+    },
+    {
+        "op": "remove",
+        "path": "/valuableTreasure/2/1/pool/9"
+    },
+    {
+        "op": "replace",
+        "path": "/valuableTreasure/2/1/pool/8/weight",
+        "value": 0.05
+    }
+]

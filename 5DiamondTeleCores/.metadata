@@ -1,0 +1,11 @@
+{
+  "author" : "Partonetrain",
+  "description" : "Makes Teleporter Cores at the 2-Stop Teleshop cost only 5 diamonds (down from 15).\n\nBecause who likes grinding for these when you're making FrackinUniverse item networks?",
+  "friendlyName" : "5-Diamond Teleporter Cores",
+  "link" : "steam://url/CommunityFilePage/2950882181",
+  "name" : "5DiamondTeleCores",
+  "priority" : 0,
+  "steamContentId" : "2950882181",
+  "tags" : "Crafting and Building|Miscellaneous",
+  "version" : "1.0"
+}

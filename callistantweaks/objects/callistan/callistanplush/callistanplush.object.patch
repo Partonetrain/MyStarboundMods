@@ -1,0 +1,17 @@
+[
+    {
+        "op": "add",
+        "path": "/catDescription",
+        "value": "Meow. It looks like a cuddly plush, but it's a vicious Callistan."
+    },
+	{
+        "op": "add",
+        "path": "/veluuDescription",
+        "value": "It's a Callistan plush."
+    },
+	{
+        "op": "add",
+        "path": "/nekoDescription",
+        "value": "Ha, the Callistan WISH they were as cute as my kind."
+    }
+]

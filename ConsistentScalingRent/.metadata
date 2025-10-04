@@ -1,0 +1,10 @@
+{
+  "author" : "Partonetrain",
+  "description" : "When a tenant chooses a pixel reward, you will always get (300 * planetTier) pixels. Supports up to tier 10 planets. This is probably unbalanced.",
+  "friendlyName" : "Consistent Scaling Rent",
+  "link" : "steam://url/CommunityFilePage/2953630192",
+  "name" : "ConsistentScalingRent",
+  "steamContentId" : "2953630192",
+  "tags" : "NPCs and Creatures|Mechanics",
+  "version" : "1.0"
+}

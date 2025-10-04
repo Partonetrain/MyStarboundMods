@@ -1,0 +1,11 @@
+{
+  "author" : "Partonetrain",
+  "description" : "Adds buyable Manipulator Modules to the Infinity Express, for when you just can't be bothered to craft or find them. They cost 5000 pixels in vanilla, or 2500 pixels with Frackin' Universe (FU halves the value of the item, and thusly the 5x buy price of Infinity Express)",
+  "friendlyName" : "Infinity Express Manipulator Modules",
+  "link" : "steam://url/CommunityFilePage/2949976844",
+  "name" : "infinityexpressmanipulatormodules",
+  "priority" : 0,
+  "steamContentId" : "2949976844",
+  "tags" : "Miscellaneous|In-Game Tools",
+  "version" : "1.0"
+}

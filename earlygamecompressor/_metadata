@@ -1,0 +1,11 @@
+{
+  "author" : "Partonetrain",
+  "description" : "Makes the Pixel Compressor craftable at the Engineer's Table. Why should you have to wait for Durasteel to start preserving your pixels? \n\nNote: If you have Frackin' Universe you will need to research Pixel Manipulation, which requires Titanium (tier 3). \n\n1.1 now affects More Outpost Objects' Outpost Pixel Compressor",
+  "friendlyName" : "Early Game Compressor",
+  "link" : "steam://url/CommunityFilePage/2953610978",
+  "name" : "EarlyGameCompressor",
+  "priority" : 0,
+  "steamContentId" : "2953610978",
+  "tags" : "Crafting and Building",
+  "version" : "1.1"
+}

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/tooltipKind",
+        "value": "pf_uniquegun"
+    },
+	{
+        "op": "replace",
+        "path": "/description",
+        "value": "A pistol used by guards of the Outpost. Notable for its high rate of fire among non-machine pistols."
+    }
+]

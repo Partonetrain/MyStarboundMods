@@ -1,0 +1,36 @@
+{
+  "ability" : {
+    "name" : "Grave Reaper",
+    "type" : "tuw_gravereaper",
+    "scripts" : ["gravereaper.lua"],
+    "class" : "GraveReaper",
+
+    "projectileOffset" : [1,0],
+    "projectileType" : "tuw_gravereaper",
+
+    "baseDamage" : 4,
+    "energyUsage" : 100,
+    "cooldownTime" : 0.5,
+
+    "stances" : {
+      "windup" : {
+        "duration" : 0.25,
+        "armRotation" : 70,
+        "weaponRotation" : 0,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "fire" : {
+        "duration" : 0.4,
+        "armRotation" : -45,
+        "weaponRotation" : -55,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  }
+}

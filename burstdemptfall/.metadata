@@ -1,0 +1,11 @@
+{
+  "author" : "Partonetrain",
+  "description" : "Changes a bunch of Project Knightfall recipes to require tier 6 materials from Project Redemption and Starburst Rework. No more crazy progression jumps.\nMostly a mod for myself, but I figure someone out there wants this...",
+  "friendlyName" : "BurstDemptFall",
+  "link" : "steam://url/CommunityFilePage/3571911247",
+  "name" : "burstdemptfall",
+  "priority" : 100,
+  "steamContentId" : "3571911247",
+  "tags" : "Mechanics",
+  "version" : "1"
+}

@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "It's a bar of mechanium, often used in Callistan constructions."
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "op": "add",
+        "path": "/learnBlueprintsOnPickup/-",
+        "value": "orangestim"
+    },
+    {
+        "op": "add",
+        "path": "/learnBlueprintsOnPickup/-",
+        "value": "testosteronestim"
+    },
+    {
+        "op": "add",
+        "path": "/learnBlueprintsOnPickup/-",
+        "value": "estrogenstim"
+    }
+]

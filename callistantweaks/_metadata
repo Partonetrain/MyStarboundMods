@@ -1,0 +1,12 @@
+{
+  "author" : "Partonetrain",
+  "description" : "This mod does the following: \n-Replaces the food gender icons in the character creator with the standard gender icons\n-Fully renames Calliskii to Calskies (always plural). The base mod uses both names interchangably which I didn't care for.\n-Adjusts Callistan subspecies FU stats and biome bonuses. The subspecies get bonuses from the biomes you'd expect.\n-Makes Callistan weapons use FU tooltips. Armor is unchanged.\n-Alters some callistan object descriptions. Adds cat/veluu/neko object descriptions.",
+  "friendlyName" : "[FU] Callistan Tweaks",
+  "includes" : ["Callistan Race Mod"],
+  "link" : "steam://url/CommunityFilePage/3370334154",
+  "name" : "callistantweaks",
+  "priority" : 1,
+  "steamContentId" : "3370334154",
+  "tags" : "Miscellaneous|Species|User Interface|Character Improvements",
+  "version" : "1"
+}

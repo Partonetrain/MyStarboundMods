@@ -1,0 +1,11 @@
+{
+  "author" : "Partonetrain",
+  "description" : "Adds tabs for each of the rotating furniture themes. Now you will be able to access all the furniture. An alternative to EverFrogg for Many Frogs users.\nUnfortunately, if a category is featured, its tab will be empty. This seems to be an issue with Many Frogs. All the tabs added by this mod kind of overflows the window, too. \nHonestly, you're probably better off using EverFrogg without Many Frogs for this, but this is for if you wanted EverFrogg functionality without it breaking Many Frogs' Outdoor tab.",
+  "friendlyName" : "Vanilla Tabs for Many Frogs",
+  "link" : "steam://url/CommunityFilePage/3571964754",
+  "name" : "vanillatabsmanyfrogs",
+  "priority" : 100,
+  "steamContentId" : "3571964754",
+  "tags" : "User Interface|Mechanics",
+  "version" : "1"
+}

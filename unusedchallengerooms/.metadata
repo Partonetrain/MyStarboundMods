@@ -1,0 +1,10 @@
+{
+  "author" : "Partonetrain",
+  "description" : "Adds 6 unused challenge room assets to the list of possible assets the Challenge Room dungeon can use. They're mostly just arenas and are much shorter than most other challenge rooms, which might explain why they were disabled. They are named:\n- angerpoint\n- doubleteam\n- laserdash (this one IS defined in the dungeon parts but points to the same file as 'heatwave', probably because the actual laserdash file has several issues, which I fixed)\n- firebat (weirdly this one is in the dungeon parts definition but not in the anchors list, so it might be a bug that it's unused rather than being intentionally disabled)\n- runandgun\n- swarm (Frackin' Universe also patches this one in, making this incompatible with FU).\n\n There's also some template ones in the files, too, but those obviously aren't meant to be used, so I left them out of this mod. ",
+  "friendlyName" : "Enable Unused Challenge Rooms",
+  "link" : "steam://url/CommunityFilePage/3577373061",
+  "name" : "unusedchallengerooms",
+  "steamContentId" : "3577373061",
+  "tags" : "Dungeons",
+  "version" : "1"
+}

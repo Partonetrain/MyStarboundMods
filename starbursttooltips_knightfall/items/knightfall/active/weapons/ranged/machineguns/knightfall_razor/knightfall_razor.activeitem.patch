@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/tooltipKind",
+        "value": "pf_uniquegun"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "A fast-firing heavy machinegun capable of shredding through targets."
+    }
+]

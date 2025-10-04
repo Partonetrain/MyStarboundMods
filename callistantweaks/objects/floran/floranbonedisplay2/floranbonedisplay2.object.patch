@@ -1,0 +1,20 @@
+[
+  {
+  "op": "add",
+  "path": "/callistanDescription",
+  "value":
+    "We Callistans admire courage. Rest in peace Floran. You made a worthy kill despite your death during that hunt."
+  },
+  {
+  "op": "add",
+  "path": "/calskiesDescription",
+  "value":
+    "Bravery is valued among us Calskies. A Floran died hunting this prey, as stated in the engraving. An honorable hunt."
+  },
+  {
+  "op": "add",
+  "path": "/callioteDescription",
+  "value": 
+    "The engraving says a Floran hunter died killing the beast this bone belonged to. I admire this kind of courage."
+  }
+]

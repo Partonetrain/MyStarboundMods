@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/tooltipKind",
+        "value": "pf_uniquegun"
+    },
+	{
+        "op": "replace",
+        "path": "/description",
+        "value": "An assault rifle that fires plasma bolts that rebounds off of surfaces. Can fire 3 plasma orbs."
+    }
+]

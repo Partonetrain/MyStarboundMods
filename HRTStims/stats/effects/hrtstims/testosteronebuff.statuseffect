@@ -1,0 +1,13 @@
+{
+  "name" : "testosteronebuff",
+  "defaultDuration" : 240,
+
+  "scripts" : [
+    "testosteronebuff.lua"
+  ],
+
+  "animationConfig" : "testosteronebuff.animation",
+
+  "label" : "Injected Testosterone",
+  "icon" : "/items/generic/other/testosteronestim.png"
+}

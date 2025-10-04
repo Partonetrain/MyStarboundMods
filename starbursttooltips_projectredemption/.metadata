@@ -1,0 +1,11 @@
+{
+  "author" : "Partonetrain",
+  "description" : "Makes Project Redemption unique items use Starburst Rework tooltips. The shields had to have their buildscript changed for this to work.\nAlso, renames Charge Gun (a disabled vanilla item that Redemption makes obtainable and Ice-element) to Ice Charge Gun and adds detail to some shield descriptions.",
+  "friendlyName" : "Starburst Tooltips for Project Redemption",
+  "link" : "steam://url/CommunityFilePage/3568407293",
+  "name" : "starbursttooltips_projectredemption",
+  "priority" : 100,
+  "steamContentId" : "3568407293",
+  "tags" : "User Interface",
+  "version" : "4"
+}

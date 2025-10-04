@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/itemTags/2",
+        "value": "assaultrifle"
+    }
+]

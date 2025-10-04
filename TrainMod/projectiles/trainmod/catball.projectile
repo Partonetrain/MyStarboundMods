@@ -1,0 +1,17 @@
+{
+  "projectileName" : "catball",
+  "speed" : 180,
+  "bounces" : -1,
+  "timeToLive" : 10,
+  "physics" : "bouncyball",
+  "image" : "catball.png",
+  "frameNumber" : 1,
+  "windupFrames" : 1,
+  "animationCycle" : 0.2,
+  "intangibleWindup" : true,
+  "emitters" : [ "cat" ],
+  "lightColor" : [255, 255, 255],
+  "damageKind" : "snowball",
+  "damageTeam" : { "type" : "indiscriminate" },
+  "clientEntityMode" : "ClientSlaveOnly"
+}

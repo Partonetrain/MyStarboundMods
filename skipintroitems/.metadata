@@ -1,0 +1,10 @@
+{
+  "author" : "Partonetrain",
+  "description" : "The intro mission (id protectorate) has scripting logic to give you certain items if you skip it at the character creation screen. For whatever reason this only includes the Broken Broadsword. This mod simply adds the other guaranteed items from that mission to that list:\n- protectoratechest\n- protectoratepants\n- protectorateflowerhead\n- raggedprotectoratecape\n- protectorateflyer\n- money * 170\n- bandage * 2\n- salve * 3\n- grassy * 35\n- drydirt * 70\n\nThis does not account for any items other mods may add to that mission, but if they also patch to add items to the skip intro items list, this mod will not conflict with that.",
+  "friendlyName" : "Skip Intro Items",
+  "link" : "steam://url/CommunityFilePage/3572471955",
+  "name" : "skipintroitems",
+  "steamContentId" : "3572471955",
+  "tags" : "Quests|Character Improvements|Mechanics",
+  "version" : "1"
+}

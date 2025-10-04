@@ -1,0 +1,552 @@
+[
+    {
+        "op": "replace",
+        "path": "/54/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/54/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/53/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/53/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/52/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/52/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/51/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/51/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/50/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/50/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/49/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/49/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/48/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/48/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/47/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/47/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/46/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/46/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/45/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/45/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/44/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/44/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/43/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/43/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/42/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/42/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/41/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/41/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/40/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/40/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/39/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/39/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/38/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/38/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/37/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/37/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/36/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/36/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/35/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/35/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/34/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/34/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/33/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/33/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/32/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/32/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/31/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/31/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/30/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/30/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/29/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/29/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/28/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/28/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/27/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/27/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/26/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/26/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/25/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/25/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/24/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/24/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/23/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/23/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/22/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/22/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/21/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/21/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/20/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/20/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/19/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/19/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/18/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/18/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/17/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/17/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/16/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/16/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/15/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/15/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/14/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/14/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/13/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/13/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/12/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/12/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/11/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/11/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/10/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/10/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/9/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/9/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/8/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/8/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/7/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/7/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/6/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/6/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/5/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/5/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/4/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/4/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/3/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/3/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/2/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/2/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/1/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/1/monsterType/0/0",
+        "value": 0.9
+    },
+    {
+        "op": "replace",
+        "path": "/0/monsterType/1/0",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/0/monsterType/0/0",
+        "value": 0.9
+    }
+]

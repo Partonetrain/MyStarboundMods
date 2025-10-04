@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/input/3/item",
+        "value": "pf_scorchedrod"
+    },
+    {
+        "op": "replace",
+        "path": "/input/2/count",
+        "value": 10
+    },
+    {
+        "op": "replace",
+        "path": "/input/2/item",
+        "value": "uraniumrod"
+    },
+    {
+        "op": "replace",
+        "path": "/input/1/item",
+        "value": "pf_shadowstar"
+    },
+    {
+        "op": "replace",
+        "path": "/input/0/item",
+        "value": "r_imperviumalloy"
+    }
+]

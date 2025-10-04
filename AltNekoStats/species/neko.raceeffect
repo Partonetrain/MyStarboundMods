@@ -1,0 +1,68 @@
+{
+    "stats": [
+        {
+            "stat": "fallDamageMultiplier",
+            "effectiveMultiplier": 0.8
+        },
+        {
+            "stat": "energyRegenBlockTime",
+            "baseMultiplier": 0.8
+        },
+        {
+            "stat": "physicalResistance",
+            "amount": -0.1
+        },
+        {
+            "stat": "electricResistance",
+            "amount": 0.1
+        },
+        {
+            "stat": "fireResistance",
+            "amount": 0.1
+        },
+        {
+            "stat": "iceResistance",
+            "amount": 0.1
+        },
+        {
+            "stat": "poisonResistance",
+            "amount": 0.1
+        },
+        {
+            "stat": "shadowResistance",
+            "amount": -0.1
+        },
+        {
+            "stat": "cosmicResistance",
+            "amount": -0.1
+        },
+        {
+            "stat": "radioactiveResistance",
+            "amount": -0.15
+        },
+        {
+            "stat": "fistMastery",
+            "amount": 0.15
+        },
+		{
+            "stat": "daggerMastery",
+            "amount": 0.15
+        },
+        {
+            "stat": "armCannonMastery",
+            "amount": 0.15
+        },
+        {
+            "stat": "fuCharisma",
+            "baseMultiplier": 1.1
+        }
+    ],
+    "diet": "raw_omnivore",
+    "controlModifiers": {
+        "speedModifier": 1.05,
+        "airJumpModifier": 1.1
+    },
+    "tech": [
+        "veluuclaw"
+    ]
+}

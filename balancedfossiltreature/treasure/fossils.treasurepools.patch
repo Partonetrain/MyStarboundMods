@@ -1,0 +1,32 @@
+[
+    {
+        "op": "replace",
+        "path": "/fossilshallow2/0/1/pool/2/weight",
+        "value": 0.33
+    },
+    {
+        "op": "replace",
+        "path": "/fossilshallow2/0/1/pool/1/weight",
+        "value": 0.33
+    },
+    {
+        "op": "replace",
+        "path": "/fossilshallow2/0/1/pool/0/weight",
+        "value": 0.34
+    },
+    {
+        "op": "replace",
+        "path": "/fossilshallow1/0/1/pool/2/weight",
+        "value": 0.33
+    },
+    {
+        "op": "replace",
+        "path": "/fossilshallow1/0/1/pool/1/weight",
+        "value": 0.33
+    },
+    {
+        "op": "replace",
+        "path": "/fossilshallow1/0/1/pool/0/weight",
+        "value": 0.34
+    }
+]

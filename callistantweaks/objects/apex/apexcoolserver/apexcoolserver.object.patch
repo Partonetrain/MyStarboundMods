@@ -1,0 +1,20 @@
+[
+  {
+  "op": "add",
+  "path": "/callistanDescription",
+  "value":
+    "I would need an experienced hacker to be able to access this."
+  },
+  {
+  "op": "add",
+  "path": "/calskiesDescription",
+  "value":
+    "We would need an experienced hacker to be able to access this."
+  },
+  {
+  "op": "add",
+  "path": "/callioteDescription",
+  "value": 
+    "I would need an experienced hacker to be able to access this."
+  }
+]

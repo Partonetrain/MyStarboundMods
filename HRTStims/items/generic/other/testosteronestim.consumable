@@ -1,0 +1,17 @@
+{
+  "itemName" : "testosteronestim",
+  "rarity" : "Common",
+  "price" : 50,
+  "category" : "medicine",
+  "inventoryIcon" : "testosteronestim.png",
+  "description" : "A stimpack full of fast-acting testosterone.\nThis will effectively make you hit harder and get damaged less!",
+  "shortdescription" : "Testosterone Stim Pack",
+  "effects" : [ [
+      {
+        "effect" : "testosteronebuff",
+        "duration" : 240
+      }
+    ] ],
+  "emote" : "",
+  "emitters" : [ "stimuse" ]
+}

@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 300 }
+  ],
+	"output" : { "item" : "pridevending", "count" : 1 },
+	"groups" : [ "skitmegacraftcrafter", "skitmegacrafttab1", "all"]
+}

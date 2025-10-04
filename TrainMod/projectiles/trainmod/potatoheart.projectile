@@ -1,0 +1,20 @@
+{
+  "projectileName" : "potatoheart",
+  "image" : "potatoheart.png",
+  "animationCycle" : 0.75,
+  "animationLoops" : false,
+  "frameNumber" : 5,
+  "speed" : 0,
+  "flippable" : true,
+  "power" : -1,
+  "piercing" : true,
+  "damageTeam" : { "type" : "indiscriminate" },
+  "damageType" : "ignoresdef",
+  "damageKind" : "applystatus",
+  "statusEffects" : [
+    "taterlove"
+  ],
+  "damagePoly": [[-16, -16], [-16, 16], [16, 16], [16, -16]],
+  
+  "renderLayer" : "Player+1"
+}

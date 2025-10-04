@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "potato", "count" : 1 },
+    { "item" : "essence", "count" : 1337 }
+  ],
+  "output" : { 
+    "item" : "tinypotato", 
+    "count" : 1 
+  },
+  "groups" : [ "treasuredtrophies" ]
+}

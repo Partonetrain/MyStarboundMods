@@ -1,0 +1,13 @@
+{
+  "name" : "tuw_stained",
+  "defaultDuration" : 240,
+
+  "scripts" : [
+    "stained.lua"
+  ],
+
+  "animationConfig" : "stained.animation",
+
+  "label" : "Stained",
+  "icon" : "/interface/statuses/tuw/stained.png"
+}

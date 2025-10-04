@@ -1,0 +1,11 @@
+{
+  "author" : "Partonetrain",
+  "description" : "Makes Anom's Outpost Overhaul unique items use Starburst Rework tooltips. Also changes the otherwise-unused descriptions of the guns. Also also patches Additional Outpost Objects' Outpost Shield.\n\nNote: thumbnail screenshot was taken in a AOO version where the sword is set to tier 4, which I'm assuming is a bug in AOO",
+  "friendlyName" : "Starburst Tooltips for Anom's Outpost Overhaul",
+  "link" : "steam://url/CommunityFilePage/3568468402",
+  "name" : "starbursttooltips_aoo",
+  "priority" : 100,
+  "steamContentId" : "3568468402",
+  "tags" : "User Interface",
+  "version" : "4"
+}

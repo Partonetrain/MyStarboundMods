@@ -1,0 +1,10 @@
+{
+  "author" : "Partonetrain",
+  "description" : "Removes the Boomerang, Chakram, and Gauntlet recipe loot from common.treasurepools. If you're using Eternal Inventory or EverPenguin, finding a recipe to one of these is effectively wasted loot, since you can just head over to Biggy's Reputable Weaponry. The weight of actual unique weapons (not recipes) is increased accordingly. Submission for \"worst thumbnail known to mankind\" contest that I just invented.",
+  "friendlyName" : "Remove Upgrade Recipes Treasure",
+  "link" : "steam://url/CommunityFilePage/3577402558",
+  "name" : "removeupgraderecipes",
+  "steamContentId" : "3577402558",
+  "tags" : "Weapons|Mechanics",
+  "version" : "1"
+}

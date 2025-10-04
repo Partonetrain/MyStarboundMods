@@ -1,0 +1,11 @@
+{
+  "author" : "Partonetrain",
+  "description" : "Reduces The Swansong's effective health from 51,000 to 12,750. Reduces Ophanim effective health from 2,975 to 850. You still have to deplete The Swansong's healthbar twice. Drastically speeds up a tedious fight.\n\nCompatible with FU, doesn't change the resistances that FU adds.",
+  "friendlyName" : "Swansong Health Nerf",
+  "link" : "steam://url/CommunityFilePage/3364336775",
+  "name" : "nerfswansonghealth",
+  "priority" : 1,
+  "steamContentId" : "3364336775",
+  "tags" : "NPCs and Creatures|Quests",
+  "version" : "1"
+}

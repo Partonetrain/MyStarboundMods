@@ -1,0 +1,20 @@
+[
+  {
+  "op": "add",
+  "path": "/callistanDescription",
+  "value":
+    "Callistans use the pelts of kills for most of our fabrics, but moth silk also comes in handy."
+  },
+  {
+  "op": "add",
+  "path": "/calskiesDescription",
+  "value":
+    "Us Calskies prefer the pelts of our prey to moth silk when it comes to fabric-making."
+  },
+  {
+  "op": "add",
+  "path": "/callioteDescription",
+  "value": 
+    "I'd prefer to use the pelt of my prey, but moth silk will do."
+  }
+]

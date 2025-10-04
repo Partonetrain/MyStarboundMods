@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "Callistan Pistol"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "A plasma pistol of Callistan origin. Hold the trigger for kill mode."
+    },
+    {
+        "op": "replace",
+        "path": "/tooltipKind",
+        "value": "gun2"
+    },
+    {
+        "op": "add",
+        "path": "/itemTags/-",
+        "value": "plasma"
+    },
+    {
+        "op": "replace",
+        "path": "/elementalType",
+        "value": "physical"
+    }
+]

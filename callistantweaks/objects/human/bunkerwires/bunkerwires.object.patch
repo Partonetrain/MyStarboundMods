@@ -1,0 +1,20 @@
+[
+  {
+  "op": "add",
+  "path": "/callistanDescription",
+  "value":
+    "A careless Callistan plus electrical hazard equals one fried wolf."
+  },
+  {
+  "op": "add",
+  "path": "/calskiesDescription",
+  "value":
+    "Calskies need to be weary of electrical hazards such as this."
+  },
+  {
+  "op": "add",
+  "path": "/callioteDescription",
+  "value": 
+    "A careless Calliote plus electrical hazard equals one fried coyote."
+  }
+]

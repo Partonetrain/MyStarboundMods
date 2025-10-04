@@ -1,0 +1,17 @@
+[
+    {
+        "op": "add",
+        "path": "/nekoDescription",
+        "value": "Wow. Rude."
+    },
+    {
+        "op": "add",
+        "path": "/veluuDescription",
+        "value": "Seems the Callistan aren't fans of us felines."
+    },
+	{
+        "op": "add",
+        "path": "/catDescription",
+        "value": "Mrowr... never thought I'd experience racism."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/nekoDescription",
+        "value": "A console to speak with S.A.I.L."
+    }
+]

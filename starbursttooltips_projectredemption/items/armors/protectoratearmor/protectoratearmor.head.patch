@@ -1,0 +1,7 @@
+[
+	{
+        "op": "replace",
+        "path": "/description",
+        "value": "The face of a noble cause. Equipped with the Protector's Sphere tech."
+    }
+]

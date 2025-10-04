@@ -1,0 +1,22 @@
+[
+    {
+        "op": "add",
+        "path": "/nekoDescription",
+        "value": "What a cute banner!"
+    },
+	{
+        "op": "add",
+        "path": "/callistanDescription",
+        "value": "A cat-paw banner. It's ugly."
+    },
+	{
+        "op": "add",
+        "path": "/calskiesDescription",
+        "value": "A cat-paw banner. It's unsightly."
+    },
+	{
+        "op": "add",
+        "path": "/callioteDescription",
+        "value": "A cat-paw banner. It's unpleasant."
+    }
+]

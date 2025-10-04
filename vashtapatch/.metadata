@@ -1,0 +1,11 @@
+{
+  "author" : "Partonetrain",
+  "description" : "For whatever reason, the Frackin Universe Vashta Cutter projectiles don't use the bioweapon damageKind, despite the icon on the weapon. It should still benefit from bioweapon-related stats, but its primary uses the default damageKind and its secondary uses electricplasma. \nThis mod patches both projectiles to use the bioweapon damageKind.\nVersion 1.1 replaces the rocketlauncher tag on the weapon with the assaultrifle tag",
+  "friendlyName" : "[FU] Vashta Cutter damageKind patch",
+  "includes" : ["FrackinUniverse"],
+  "link" : "steam://url/CommunityFilePage/3348423976",
+  "name" : "vashtapatch",
+  "steamContentId" : "3348423976",
+  "tags" : "Miscellaneous|Weapons",
+  "version" : "1.1"
+}

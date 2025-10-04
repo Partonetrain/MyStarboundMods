@@ -1,0 +1,14 @@
+{
+  "name" : "estrogenheal",
+
+  "defaultDuration" : 4,
+
+  "scripts" : [
+    "estrogenheal.lua"
+  ],
+
+  "animationConfig" : "estrogenheal.animation",
+
+  "label" : "Injected Estrogen",
+  "icon" : "/items/generic/other/estrogenstim.png"
+}

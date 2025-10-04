@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "cottonwool", "count" : 2 },
+    { "item" : "string", "count" : 4 }
+  ],
+  "output" : { "item" : "femboypants", "count" : 1 },
+  "groups" : [ "craftingwheel", "clothes" ]
+}

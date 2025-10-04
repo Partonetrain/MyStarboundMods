@@ -1,0 +1,10 @@
+{
+  "author" : "Partonetrain",
+  "description" : "Adds buyable Tech Cards to the Infinity Express, for when you just can't be bothered to find them. They cost 6250 pixels, assuming no mod changes the base value of Tech Cards or the Infinity Express buy multiplier.",
+  "friendlyName" : "Infinity Express Tech Cards",
+  "link" : "steam://url/CommunityFilePage/3577393554",
+  "name" : "infinityexpresstechcards",
+  "steamContentId" : "3577393554",
+  "tags" : "Miscellaneous|In-Game Tools",
+  "version" : "1.0"
+}

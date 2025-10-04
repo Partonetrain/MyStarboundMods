@@ -1,0 +1,20 @@
+[
+  {
+  "op": "add",
+  "path": "/callistanDescription",
+  "value":
+    "The Glitch can't grow hair....This must be either fake hair or real hair taken from a creature, hopefully not a Callistan."
+  },
+  {
+  "op": "add",
+  "path": "/calskiesDescription",
+  "value":
+    "The Glitch can't grow hair.... This must be either fake hair or real hair taken from a creature, hopefully not a member of the Calskies."
+  },
+  {
+  "op": "add",
+  "path": "/callioteDescription",
+  "value": 
+    "The Glitch can't grow hair.... This must be either fake hair or real hair taken from a creature, hopefully not a Calliote."
+  }
+]

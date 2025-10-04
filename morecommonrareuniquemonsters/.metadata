@@ -1,0 +1,10 @@
+{
+  "author" : "Partonetrain",
+  "description" : "Simply boosts the odds of the Rare Form (i.e., Fire Gleap) of Unique Monsters spawning from 1% to 10%. Why hasn't anyone thought of this yet? \nLikely incompatible with any mod that significantly changes uniques.spawntypes. Surprisingly, this *is* compatible with Frackin' Universe.",
+  "friendlyName" : "More Common Rare Unique Monsters",
+  "link" : "steam://url/CommunityFilePage/3567800390",
+  "name" : "morecommonrareuniquemonsters",
+  "steamContentId" : "3567800390",
+  "tags" : "NPCs and Creatures",
+  "version" : "1"
+}

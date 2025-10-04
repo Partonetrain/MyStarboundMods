@@ -1,0 +1,20 @@
+[
+  {
+  "op": "add",
+  "path": "/callistanDescription",
+  "value":
+    "This wouldn't be out of place in a Callistan den."
+  },
+  {
+  "op": "add",
+  "path": "/calskiesDescription",
+  "value":
+    "A stalactite lamp. An icicle variation of this would look good in a den of Calskies."
+  },
+  {
+  "op": "add",
+  "path": "/callioteDescription",
+  "value": 
+    "This lamp would look good in Calliote dens, it resembles sandstone."
+  }
+]

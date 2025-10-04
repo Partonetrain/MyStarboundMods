@@ -1,0 +1,17 @@
+[
+    {
+        "op": "add",
+        "path": "/catDescription",
+        "value": "Hiss! The Callistan have a truly awful taste in music."
+    },
+	{
+        "op": "add",
+        "path": "/veluuDescription",
+        "value": "Callistan music. It's different from what I'm used to, but I don't hate it."
+    },
+	{
+        "op": "add",
+        "path": "/nekoDescription",
+        "value": "Why do the Callistan like this song?"
+    }
+]

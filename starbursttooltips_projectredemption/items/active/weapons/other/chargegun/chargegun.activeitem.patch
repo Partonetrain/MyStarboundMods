@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/tooltipKind",
+        "value": "pf_uniquegun"
+    },
+	{
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "Ice Charge Gun"
+    }
+]

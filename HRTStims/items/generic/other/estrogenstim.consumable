@@ -1,0 +1,17 @@
+{
+  "itemName" : "estrogenstim",
+  "rarity" : "Common",
+  "price" : 50,
+  "category" : "medicine",
+  "inventoryIcon" : "estrogenstim.png",
+  "description" : "A stimpack full of fast-acting estrogen.\nThis will effectively heal you and give you energy!",
+  "shortdescription" : "Estrogen Stim Pack",
+  "effects" : [ [
+      {
+        "effect" : "estrogenheal",
+        "duration" : 4
+      }
+    ] ],
+  "emote" : "",
+  "emitters" : [ "stimuse" ]
+}

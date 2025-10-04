@@ -1,0 +1,122 @@
+{
+  "objectName" : "pridevending",
+  "colonyTags" : ["mechanical","commerce"],
+  "rarity" : "Common",
+  "category" : "other",
+  "price" : 300,
+  "printable" : false,
+  "description" : "A vending machine, with gay little outfits inside.",
+  "shortdescription" : "Pride Outfits",
+  "race" : "generic",
+
+  "interactAction" : "OpenMerchantInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/vendingmachine.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "Vending Machine",
+        "subtitle" : " Rainbow Clothes"
+      }
+    },
+    "buyFactor" : 1,
+    "sellFactor" : 0.2,
+    "items" : [
+		{ "item" : "aceshirt" },
+		{ "item" : "agendershirt" },
+		{ "item" : "aroshirt" },
+		{ "item" : "bishirt" },	
+		{ "item" : "gayshirt" },
+		{ "item" : "genderfluidshirt" },	
+		{ "item" : "genderqueershirt" },	
+		{ "item" : "intersexshirt" },	
+		{ "item" : "lesbianshirt" },	
+		{ "item" : "nonbinaryshirt" },	
+		{ "item" : "panshirt" },	
+		{ "item" : "transshirt" },
+		
+		{ "item" : "aceshorts" },
+		{ "item" : "agendershorts" },
+		{ "item" : "aroshorts" },
+		{ "item" : "bishorts" },
+		{ "item" : "gayshorts" },
+		{ "item" : "genderfluidshorts" },
+		{ "item" : "genderqueershorts" },
+		{ "item" : "intersexshorts" },
+		{ "item" : "lesbianshorts" },
+		{ "item" : "nonbinaryshorts" },
+		{ "item" : "panshorts" },
+		{ "item" : "transshorts" },
+		
+		{ "item" : "aceskirt" },
+		{ "item" : "agenderskirt" },
+		{ "item" : "aroskirt" },
+		{ "item" : "biskirt" },
+		{ "item" : "gayskirt" },
+		{ "item" : "genderfluidskirt" },
+		{ "item" : "genderqueerskirt" },
+		{ "item" : "intersexskirt" },
+		{ "item" : "lesbianskirt" },
+		{ "item" : "nonbinaryskirt" },
+		{ "item" : "panskirt" },
+		{ "item" : "transskirt" }
+    ]
+  },
+
+  "inventoryIcon" : "pridevendingicon.png",
+  "orientations" : [
+    {
+      "image" : "pridevending2.png:<color>",
+      "imagePosition" : [-16, -0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    },
+    {
+      "image" : "pridevending.png:<color>",
+      "imagePosition" : [-16, -0],
+
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/fluorescent_light_loud.ogg",
+  "soundEffectRangeMultiplier" : 0.5,
+
+  "scripts" : [
+    "/scripts/npcToyObject.lua"
+  ],
+  "scriptDelta" : 60,
+
+  "npcToy" : {
+    "influence" : [
+      "vendingmachineActivate",
+      "vendingmachineCollect",
+      "vendingmachineConsume",
+      "vendingmachineComplete"
+    ],
+    "defaultReactions" : {
+      "vendingmachineActivate" : [
+        [1.0, "pressbutton"]
+      ],
+      "vendingmachineCollect" : [
+        [1.0, "crouchcollect"]
+      ],
+      "vendingmachineConsume" : [
+        [1.0, "drink"]
+      ],
+      "vendingmachineComplete" : [
+        [1.0, "smile"],
+        [0.1, "vomit"]
+      ]
+    },
+    "preciseStandPositionLeft" : [-2.0, 1.0],
+    "preciseStandPositionRight" : [2.0, 1.0],
+    "maxNpcs" : 1
+  }
+}

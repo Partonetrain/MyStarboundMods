@@ -1,0 +1,8 @@
+[
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"femboyhead"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"femboychest"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"femboypants"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"femboyback"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"pridevending"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"flagfemboy"}}
+]

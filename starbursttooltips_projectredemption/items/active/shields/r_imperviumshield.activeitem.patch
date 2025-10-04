@@ -1,0 +1,27 @@
+[
+	{
+        "op": "replace",
+        "path": "/builder",
+        "value": "/items/buildscripts/pf_buildunrandshield.lua"
+    },
+    {
+        "op": "replace",
+        "path": "/tooltipKind",
+        "value": "pf_uniqueshield"
+    },
+	{
+        "op": "replace",
+        "path": "/description",
+        "value": "A nigh-indestructible Impervium shield. ^green;Uniquely high knockback.^white;"
+    },
+	{
+        "op": "replace",
+        "path": "/stances/raised/allowRotate",
+        "value": false
+    },
+    {
+        "op": "replace",
+        "path": "/stances/idle/allowRotate",
+        "value": false
+    }
+]

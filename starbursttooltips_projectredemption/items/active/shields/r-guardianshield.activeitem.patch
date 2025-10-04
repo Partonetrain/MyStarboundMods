@@ -1,0 +1,32 @@
+[
+	{
+        "op": "replace",
+        "path": "/builder",
+        "value": "/items/buildscripts/pf_buildunrandshield.lua"
+    },
+    {
+        "op": "replace",
+        "path": "/tooltipKind",
+        "value": "pf_uniqueshield"
+    },
+	{
+        "op": "replace",
+        "path": "/perfectBlockTime",
+        "value": 0.8
+    },
+	{
+        "op": "replace",
+        "path": "/description",
+        "value": "A ceremonial shield modeled after the Terrene Guardian logo. ^green;Unique shield bash mechanic.^white;"
+    },
+	{
+        "op": "replace",
+        "path": "/stances/raised/allowRotate",
+        "value": false
+    },
+    {
+        "op": "replace",
+        "path": "/stances/idle/allowRotate",
+        "value": false
+    }
+]

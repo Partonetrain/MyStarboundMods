@@ -1,0 +1,162 @@
+[
+  [
+    {  "op": "test", "path": "/modTab", "inverse": true },
+    { "op": "add", "path": "/modTab", "value": [] }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/modTab/-",
+      "value": {
+      "file": "/objects/themed/astronaut/earthmodel/icon.png",
+      "label": "Astro",
+      "filter": [ "astronaut" ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/storeInventory/astronaut",
+      "value": [ "earthmodel", "jupitermodel", "liftoffseat", "marsmodel", "mercurymodel", "neptunemodel", "plutomodel", "satellite", "saturnmodel", "spaceshuttlebed", "sunmodel", "uranusmodel", "venusmodel" ]
+    },
+	{
+      "op": "add",
+      "path": "/modTab/-",
+      "value": {
+      "file": "/objects/themed/cabin/cabinornament/cabinornamenticon.png",
+      "label": "Cabin",
+      "filter": [ "cabin" ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/storeInventory/cabin",
+      "value": [ "cabinbunkbed", "cabinchair", "cabinlamp", "cabinornament", "cabinstooltable", "cabinstove", "cabintable" ]
+    },
+	{
+      "op": "add",
+      "path": "/modTab/-",
+      "value": {
+      "file": "/objects/themed/farm/applebasket/applebasketicon.png",
+      "label": "Farm",
+      "filter": [ "farm" ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/storeInventory/farm",
+      "value": [ "applebasket", "baguettebox", "kitchencabinet1", "kitchencabinet2", "kitchenstovetop", "kitchenceilingcabinet1", "kitchenceilingcabinet2", "kitchenshelf", "kitchentable" ]
+    },
+	{
+      "op": "add",
+      "path": "/modTab/-",
+      "value": {
+      "file": "/objects/themed/gothic/gothiclight/gothiclighticon.png",
+      "label": "Gothic",
+      "filter": [ "gothic" ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/storeInventory/gothic",
+      "value": [ "gothicbed", "gothicbookcase", "gothicchair", "gothiccouch", "gothicdoor", "gothiclight" ]
+    },
+	{
+      "op": "add",
+      "path": "/modTab/-",
+      "value": {
+      "file": "/objects/themed/island/hulagirl/hulagirlicon.png",
+      "label": "Island",
+      "filter": [ "island" ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/storeInventory/island",
+      "value": [ "hulagirl", "islandcabinet", "islandchair", "islandhammock", "islandlamp", "islandtable" ]
+    },
+	{
+      "op": "add",
+      "path": "/modTab/-",
+      "value": {
+      "file": "/objects/themed/retroscifi/retroscifitable/retroscifitableicon.png",
+      "label": "Retro",
+      "filter": [ "retro" ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/storeInventory/retro",
+      "value": [ "retroscifibed", "retroscificabinet", "retroscifichair", "retroscifidresser", "retroscifilight", "retroscifitable", "retroscifitv" ]
+    },
+	{
+      "op": "add",
+      "path": "/modTab/-",
+      "value": {
+      "file": "/objects/themed/pastel/pastelbunnyplush/pastelbunnyplushicon.png",
+      "label": "Pastel",
+      "filter": [ "pastel" ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/storeInventory/pastel",
+      "value": [ "pastelbed", "pastelbunnyplush", "pastelcabinet", "pastelchair", "pastellight", "pastelstool", "pasteltable", "pastelwallclock", "pastelwardrobe" ]
+    },
+	{
+      "op": "add",
+      "path": "/modTab/-",
+      "value": {
+      "file": "/objects/themed/sea/coralmirror/coralmirroricon.png",
+      "label": "Sea",
+      "filter": [ "sea" ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/storeInventory/sea",
+      "value": [ "coralmirror", "seabed", "seachair", "sealamp", "seaweedpot" ]
+    },
+	{
+      "op": "add",
+      "path": "/modTab/-",
+      "value": {
+      "file": "/objects/themed/spooky/spookypumpkindhead/spookypumpkinheadicon.png",
+      "label": "Spooky",
+      "filter": [ "spooky" ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/storeInventory/spooky",
+      "value": [ "spookybed", "spookycandles", "spookycauldron", "spookyclock", "spookypumpkinhead", "spookytombchair" ]
+    },
+	{
+      "op": "add",
+      "path": "/modTab/-",
+      "value": {
+      "file": "/objects/themed/steampunk/steampunklamp/steampunklampicon.png",
+      "label": "Steamp.",
+      "filter": [ "steampunk" ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/storeInventory/steampunk",
+      "value": [ "steampunkarmchair", "steampunkbed", "steampunkdesk", "steampunkglobe", "steampunklamp", "steampunkshelf" ]
+    },
+	{
+      "op": "add",
+      "path": "/modTab/-",
+      "value": {
+      "file": "/objects/themed/egyptian/egyptianstatuette/egyptianstatuetteicon.png",
+      "label": "Egypt",
+      "filter": [ "egyptian" ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/storeInventory/egyptian",
+      "value": [ "egyptianbed", "egyptianchair", "egyptiantable", "egyptianlamp", "egyptianpillar", "egyptianstatuette", "egyptiancrest" ]
+    }
+  ]
+]

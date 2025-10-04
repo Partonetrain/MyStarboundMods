@@ -1,0 +1,20 @@
+[
+  {
+  "op": "add",
+  "path": "/callistanDescription",
+  "value":
+    "Pineapple juice pairs well with any Callistan meal. Just no whole fruit."
+  },
+  {
+  "op": "add",
+  "path": "/calskiesDescription",
+  "value":
+    "Pineapple juice pairs well with any meal a member of the Calskies could eat. Just no whole fruit."
+  },
+  {
+  "op": "add",
+  "path": "/callioteDescription",
+  "value": 
+    "Pineapple juice pairs well with any Calliote meal. Just no whole fruit."
+  }
+]

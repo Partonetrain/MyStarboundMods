@@ -1,0 +1,11 @@
+{
+  "author" : "Partonetrain",
+  "description" : "Makes Knightfall's weapons use Starburst Rework tooltips. The shields and bows had to have their buildscript changed for this to work.\nAlso shortens some descriptions so they fit in the tooltip, and changes the shields and bows to be properly assigned a tier/level.",
+  "friendlyName" : "Starburst Tooltips for Project Knightfall",
+  "link" : "steam://url/CommunityFilePage/3569026997",
+  "name" : "starbursttooltips_knightfall",
+  "priority" : 100,
+  "steamContentId" : "3569026997",
+  "tags" : "User Interface",
+  "version" : "5"
+}

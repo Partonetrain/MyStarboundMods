@@ -1,0 +1,20 @@
+[
+  {
+  "op": "add",
+  "path": "/callistanDescription",
+  "value":
+    "A statue of a hunting champion. We also have statues of Callistan hunters, and Roskii of course."
+  },
+  {
+  "op": "add",
+  "path": "/calskiesDescription",
+  "value":
+    "A statue of a hunting champion. Calskies always hunt together, and we wouldn't idolize an individual like this."
+  },
+  {
+  "op": "add",
+  "path": "/callioteDescription",
+  "value": 
+    "A statue of a hunting champion. We also have statues of Calliote hunters."
+  }
+]

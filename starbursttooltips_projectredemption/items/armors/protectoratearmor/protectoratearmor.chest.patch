@@ -1,0 +1,7 @@
+[
+	{
+        "op": "replace",
+        "path": "/description",
+        "value": "Experimental power armor to ensure protection for all. Equipped with a powerful dash tech."
+    }
+]

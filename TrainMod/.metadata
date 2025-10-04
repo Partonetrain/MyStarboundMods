@@ -1,0 +1,10 @@
+{
+  "author" : "Partonetrain",
+  "description" : "Adds content for my personal modpack.\nPlease don't use this unless you're me.\n\nA very incomplete list of what this does, if for some reason you insist on using it:\nReplaces Chucklefish intro with \"tater\" (sound effect from kingbdogz included)\nAdds Tiny Potato furniture to Treasured Trophies\nAdds Tiny Potato Stimpack which increases your mobility\nRetextures Skittles' Mega Crafter (the one that looks like a bunny) into a vending machine that vends vending machines\nAdds Pride Vending machine and Pride clothes to the Vending Machine Vending Machine (sprites from https://steamcommunity.com/sharedfiles/filedetails/?id=1422524696)\nAdds \"femboy\" costume (craftable at spinning wheel)\nAdds \"Cat Ball\"; purchasable at Terramart, this strange ball emits the unused \"cat\" effectsource. It's like a huge cat face particle, use at own risk.\nRetextures Healing Water to have red plus signs\nremoves Additional Outpost Objects 2x2 secret door recipe\nremoves Grappling Whips indywhip recipe\n\nv1.3 idk a bunch of stuff i forgot to keep track of\nv1.2.3 ensures Tiny Potato is unprintable (it wasn't before, but some mod was making items with undefined printablity printable.)\nv1.2.2 fixes Femboy Armor Cat Ears having an incorrect mask.png and some grammar\nv1.2.1 fixes Femboy Flag object (I forgot a comma lol)\nv1.2 adds Femboy Flag (craft at hands) and removes some unneeded directories\n",
+  "friendlyName" : "Train's Mod",
+  "link" : "steam://url/CommunityFilePage/2978503499",
+  "name" : "Train's Mod",
+  "priority" : 100,
+  "steamContentId" : "2978503499",
+  "version" : "1.4"
+}

@@ -1,0 +1,20 @@
+[
+  {
+  "op": "add",
+  "path": "/callistanDescription",
+  "value":
+    "Sitting in this is a good way to become frozen to the chair. Unless you're a Calskie or Apex."
+  },
+  {
+  "op": "add",
+  "path": "/calskiesDescription",
+  "value":
+    "Ice furniture is easy to aquire for us Calskies. We use cushioning to make them comfortable."
+  },
+  {
+  "op": "add",
+  "path": "/callioteDescription",
+  "value": 
+    "I wouldn't be able to enjoy sitting in this. I'd have to be a Calskie to tolerate it."
+  }
+]

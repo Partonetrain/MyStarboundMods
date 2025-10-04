@@ -1,0 +1,10 @@
+{
+  "author" : "Partonetrain",
+  "description" : "Makes the Vintage Scoped Rifle (the vanilla item obtained by the second arena quest The Glory That's Inside) into a hunting weapon. It's obviously supposed to be a hunting rifle, and its id is 'hunterrifle' for chrissakes, but it doesn't act as a hunting weapon in vanilla. v3 removes the \"standardbulletbow\" projectile and makes it use the vanilla \"huntingbullet\" projectile, but this works identically. Should be compatible with everything.",
+  "friendlyName" : "Vintage Scoped Rifle is a Hunting Weapon",
+  "link" : "steam://url/CommunityFilePage/3568418304",
+  "name" : "vintagescopedrifleisahuntingweapon",
+  "steamContentId" : "3568418304",
+  "tags" : "Weapons|Food and Farming|Mechanics",
+  "version" : "3"
+}

@@ -1,0 +1,49 @@
+{
+  "objectName" : "tinypotato",
+  "colonyTags" : ["misc"],
+  "rarity" : "legendary",
+  "category" : "Friend",
+  "price" : 0,
+
+  "description" : "It's a Tiny Potato. ^pink;It believes in you!",
+  "shortdescription" : "Tiny Potato",
+
+  "inventoryIcon" : "tinypotatoicon.png",
+  "orientations" : [
+    {
+      "image" : "tinypotato.png:<color>",
+      "imagePosition" : [-8, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+	  "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "tinypotato.png:<color>",
+      "imagePosition" : [-8, 0],
+
+      "direction" : "right",
+
+	  "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+  
+  "npcToy" : {
+    "ownerOnly" : false,
+    "influence" : [
+      "wallbutton"
+    ],
+    "defaultReactions" : {},
+    "preciseStandPositionLeft" : [-1.0, 0.0],
+    "preciseStandPositionRight" : [1.0, 0.0],
+    "maxNpcs" : 1
+  },
+
+  "animation": "/objects/noisy/noisy.animation",
+  "scripts": [ "/scripts/npcToyObject.lua", "tinypotato.lua" ],
+  "sounds": [ "/sfx/npc/monsters/monster_hop.ogg" ],
+  "printable": false
+}

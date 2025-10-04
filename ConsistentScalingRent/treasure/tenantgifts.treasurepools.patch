@@ -1,0 +1,244 @@
+[
+    {
+        "op": "remove",
+        "path": "/tenantMoney/6/1/pool/4"
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/6/1/pool/3"
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/6/1/pool/2"
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/6/1/pool/1"
+    },
+    {
+        "op": "replace",
+        "path": "/tenantMoney/6/1/pool/0/item/1",
+        "value": 2100
+    },
+    {
+        "op": "replace",
+        "path": "/tenantMoney/6/1/pool/0/weight",
+        "value": 1
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/5/1/pool/4"
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/5/1/pool/3"
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/5/1/pool/2"
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/5/1/pool/1"
+    },
+    {
+        "op": "replace",
+        "path": "/tenantMoney/5/1/pool/0/item/1",
+        "value": 1800
+    },
+    {
+        "op": "replace",
+        "path": "/tenantMoney/5/1/pool/0/weight",
+        "value": 1
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/4/1/pool/4"
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/4/1/pool/3"
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/4/1/pool/2"
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/4/1/pool/1"
+    },
+    {
+        "op": "replace",
+        "path": "/tenantMoney/4/1/pool/0/item/1",
+        "value": 1500
+    },
+    {
+        "op": "replace",
+        "path": "/tenantMoney/4/1/pool/0/weight",
+        "value": 1
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/3/1/pool/4"
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/3/1/pool/3"
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/3/1/pool/2"
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/3/1/pool/1"
+    },
+    {
+        "op": "replace",
+        "path": "/tenantMoney/3/1/pool/0/item/1",
+        "value": 1200
+    },
+    {
+        "op": "replace",
+        "path": "/tenantMoney/3/1/pool/0/weight",
+        "value": 1
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/2/1/pool/4"
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/2/1/pool/3"
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/2/1/pool/2"
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/2/1/pool/1"
+    },
+    {
+        "op": "replace",
+        "path": "/tenantMoney/2/1/pool/0/item/1",
+        "value": 900
+    },
+    {
+        "op": "replace",
+        "path": "/tenantMoney/2/1/pool/0/weight",
+        "value": 1
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/1/1/pool/4"
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/1/1/pool/3"
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/1/1/pool/2"
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/1/1/pool/1"
+    },
+    {
+        "op": "replace",
+        "path": "/tenantMoney/1/1/pool/0/item/1",
+        "value": 600
+    },
+    {
+        "op": "replace",
+        "path": "/tenantMoney/1/1/pool/0/weight",
+        "value": 1
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/0/1/pool/4"
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/0/1/pool/3"
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/0/1/pool/2"
+    },
+    {
+        "op": "remove",
+        "path": "/tenantMoney/0/1/pool/1"
+    },
+    {
+        "op": "replace",
+        "path": "/tenantMoney/0/1/pool/0/item/1",
+        "value": 300
+    },
+    {
+        "op": "replace",
+        "path": "/tenantMoney/0/1/pool/0/weight",
+        "value": 1
+    },
+    {
+        "op": "add",
+        "path": "/tenantMoney/7",
+        "value": [
+            8,
+            {
+                "pool": [
+                    {
+                        "weight": 1,
+                        "item": [
+                            "money",
+                            2400
+                        ]
+                    }
+                ],
+                "poolRounds": 1,
+                "allowDuplication": false
+            }
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/tenantMoney/8",
+        "value": [
+            9,
+            {
+                "pool": [
+                    {
+                        "weight": 1,
+                        "item": [
+                            "money",
+                            2700
+                        ]
+                    }
+                ],
+                "poolRounds": 1,
+                "allowDuplication": false
+            }
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/tenantMoney/9",
+        "value": [
+            10,
+            {
+                "pool": [
+                    {
+                        "weight": 1,
+                        "item": [
+                            "money",
+                            3000
+                        ]
+                    }
+                ],
+                "poolRounds": 1,
+                "allowDuplication": false
+            }
+        ]
+    }
+]

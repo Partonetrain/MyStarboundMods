@@ -1,0 +1,17 @@
+{
+  "itemName" : "potatostim",
+  "rarity" : "Common",
+  "price" : 50,
+  "category" : "medicine",
+  "inventoryIcon" : "potatostim.png",
+  "description" : "Inject Tiny Potato straight into your veins.\n^pink;Improves mobility.",
+  "shortdescription" : "Potato Stim Pack",
+  "effects" : [ [
+      {
+        "effect" : "taterlove",
+        "duration" : 3600
+      }
+    ] ],
+  "emote" : "happy",
+  "emitters" : [ "stimuse" ]
+}

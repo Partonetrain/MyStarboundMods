@@ -1,0 +1,20 @@
+[
+  {
+  "op": "add",
+  "path": "/callistanDescription",
+  "value":
+    "Slap a tail and ears on it, and it would be good for displaying Callistan clothes."
+  },
+  {
+  "op": "add",
+  "path": "/calskiesDescription",
+  "value":
+    "Slap a tail and ears on it, and it would be good for displaying a member of the Calskies' clothes."
+  },
+  {
+  "op": "add",
+  "path": "/callioteDescription",
+  "value": 
+    "Slap a tail and ears on it, and it would be good for displaying Calliote clothes."
+  }
+]

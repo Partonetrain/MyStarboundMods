@@ -1,0 +1,11 @@
+{
+  "author" : "Partonetrain",
+  "description" : "Doubles the output of multiple Frackin' Universe recipes (cores, alloys, compounds) to mildly reduce microcrafting and recipe grind.\n\nRecipes doubled:\nPrototyper:\nadvcircuit, electromagnet, ff_focusingarray, moltencore, nuclearcore, nuclearcore2, particlecore, powercore, teleportercore\n\nFurnace:\nadvancealloy, aetheriumalloy, carbonplate, densealloy, honedlunari, tritaniumbar\n\nChemlab: \ncorruptionseed (Lasombrium Seed), exoticmatter, morphiteore, precursorgel (State-Phase Gel), unstableparticles\n\nv1.0.1 fixes \"advancedalloy\" recipe patch to correct \"advancealloy\"",
+  "friendlyName" : "FUDoubler",
+  "link" : "steam://url/CommunityFilePage/2972496094",
+  "name" : "FUDoubler",
+  "priority" : 100,
+  "steamContentId" : "2972496094",
+  "tags" : "Crafting and Building",
+  "version" : "1.0.1"
+}

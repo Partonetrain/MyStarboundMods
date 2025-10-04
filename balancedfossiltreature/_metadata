@@ -1,0 +1,10 @@
+{
+  "author" : "Partonetrain",
+  "description" : "Makes small, medium, and large fossil pools roughly equal in chance. In vanilla, the chances are 40% for a small fossil, 35% for a piece medium fossil, and 20% for a piece of a small fossil. With this mod, the chances are 34% small, 33% medium, and 33% large. Hopefully this helps with the \"all fossils\" achievement. You will still have to combine 3 medium or 5 large fossils, so those are still necessarily harder. Yes, it's compatible with FU.",
+  "friendlyName" : "Balanced Fossil Treasure",
+  "link" : "steam://url/CommunityFilePage/3425200237",
+  "name" : "balancedfossiltreasure",
+  "steamContentId" : "3425200237",
+  "tags" : "Quests|Mechanics",
+  "version" : "1"
+}

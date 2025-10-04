@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/callistanDescription",
+        "value": "The flag of our race and its sub-species. I can bookmark this for teleporting to this location later."
+    },
+	{
+        "op": "replace",
+        "path": "/calskiesDescription",
+        "value": "The flag of the Callistan, and also us Calskies. I can bookmark this for teleporting to this location later."
+    },
+	{
+        "op": "replace",
+        "path": "/callioteDescription",
+        "value": "The flag of the Callistan, and also the Calliote. I can bookmark this for teleporting to this location later."
+    },
+	{
+        "op": "replace",
+        "path": "/catDescription",
+        "value": "This flag can only mean one thing... There's a Callistan nearby. I better watch out."
+    }
+]

@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "potato", "count" : 1 },
+    { "item" : "essence", "count" : 1 },
+    { "item" : "syringe", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "potatostim",
+    "count" : 1
+  },
+  "groups" : [ "craftingmedical2", "buffs" ]
+}

@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "liquidlava", "count" : 5 },
+    { "item" : "plantfibre", "count" : 4 },
+    { "item" : "syringe", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "testosteronestim",
+    "count" : 5
+  },
+  "groups" : [ "craftingmedical2", "buffs" ]
+}

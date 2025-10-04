@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/input/1/item",
+        "value": "durasteelbar"
+    },
+    {
+        "op": "replace",
+        "path": "/input/0/item",
+        "value": "r_imperviumalloy"
+    }
+]

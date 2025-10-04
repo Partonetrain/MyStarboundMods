@@ -1,0 +1,108 @@
+[
+    {
+        "op": "add",
+        "path": "/metadata/anchor/-",
+        "value": "angerpoint"
+    },
+	{
+        "op": "add",
+        "path": "/parts/-",
+        "value": {
+            "name": "angerpoint",
+            "rules": [
+                [
+                    "maxSpawnCount",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "def": [
+                "tmx",
+                "angerpoint.json"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/metadata/anchor/-",
+        "value": "doubleteam"
+    },
+	{
+        "op": "add",
+        "path": "/parts/-",
+        "value": {
+            "name": "doubleteam",
+            "rules": [
+                [
+                    "maxSpawnCount",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "def": [
+                "tmx",
+                "doubleteam.json"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/metadata/anchor/-",
+        "value": "firebat"
+    },
+    {
+        "op": "add",
+        "path": "/metadata/anchor/-",
+        "value": "runandgun"
+    },
+	{
+        "op": "add",
+        "path": "/parts/-",
+        "value": {
+            "name": "runandgun",
+            "rules": [
+                [
+                    "maxSpawnCount",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "def": [
+                "tmx",
+                "runandgun.json"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/metadata/anchor/-",
+        "value": "swarm"
+    },
+	{
+        "op": "add",
+        "path": "/parts/-",
+        "value": {
+            "name": "swarm",
+            "rules": [
+                [
+                    "maxSpawnCount",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "def": [
+                "tmx",
+                "swarm.json"
+            ]
+        }
+    },
+	{
+        "op": "replace",
+        "path": "/parts/10/def/1",
+        "value": "laserdash-fixed.json"
+    }
+]

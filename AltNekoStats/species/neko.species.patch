@@ -1,0 +1,113 @@
+[
+    { "op": "replace",
+    "path" : "/charCreationTooltip/description",
+    "value" : "Genetically engineered Vel'uuish-Human hybrids. Light on their feet and quick to regain their stamina, they excel in hit-and-run tactics, and are hardened against the more primal elements.
+
+  ^orange;Diet^reset;: Omnivore, can eat raw meat.
+
+^orange;Perks^reset;:
+  +^green;20^reset;% Jump, Fall Damage x^green;0.8^reset;, +^green;5^reset;% Speed
+  -^green;10^reset;% E. Regen Block Time
+  +^green;5^reset;% Energy
+  ^green;Resist^reset;: +^green;10^reset;% Fire, Electric, Ice and Poison
+  Cute (+^green;10^reset;% Charisma)
+  Tech: ^green;Razor Claws^reset;
+
+^orange;Weapons^reset;:
+  Dagger, Fist, and Arm Cannon Mastery: +^green;15^reset;%
+
+^red;Weaknesses^reset;:
+  ^red;Resist^reset;: -^red;10^reset;% Physical, Shadow, and Cosmic, -^red;15^reset;% Radiation ^reset;"
+    },
+	    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "flagcat"
+        }},
+		{
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "glassball"
+        }},
+		{
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "magnorbveluu"
+        }},
+		{
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "veluulongsword"
+        }},
+		{
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "fuveluushortsword"
+        }},
+		{
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "veluudagger"
+        }},
+		{
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "duskiline"
+        }},
+		{
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "veluupistol"
+        }},
+		{
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "armcannonveluu"
+        }},
+		{
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "armcannonveluubullet"
+        }},
+		{
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "armcannonveluupoison"
+        }},
+		{
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "armcannonveluufire"
+        }},
+		{
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "armcannonveluurocket"
+        }},
+		{
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "veluuclaws"
+        }},
+		{
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "veluurifle"
+        }}
+    
+]
