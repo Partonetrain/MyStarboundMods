@@ -1,0 +1,63 @@
+[
+    {
+        "op": "remove",
+        "path": "/primaryAbility/stances"
+    },
+    {
+        "op": "remove",
+        "path": "/primaryAbility/damageConfig/timeoutGroup"
+    },
+    {
+        "op": "remove",
+        "path": "/primaryAbility/damageConfig/knockbackMode"
+    },
+    {
+        "op": "remove",
+        "path": "/primaryAbility/damageConfig/knockback"
+    },
+    {
+        "op": "add",
+        "path": "/primaryAbility/damageConfig/statusEffects/0",
+        "value": {
+            "effect": "crash",
+            "duration": 3
+        }
+    },
+    {
+        "op": "remove",
+        "path": "/primaryAbility/class"
+    },
+    {
+        "op": "remove",
+        "path": "/primaryAbility/scripts"
+    },
+    {
+        "op": "add",
+        "path": "/animationCustom/sounds/fire2",
+        "value": [
+            "/sfx/melee/soulseeker_swing.ogg"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/animationCustom/sounds/fire3",
+        "value": [
+            "/sfx/melee/soulseeker_swing.ogg"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/twoHanded",
+        "value": true
+    },
+    {
+        "op": "add",
+        "path": "/primaryAbilityType",
+        "value": "broadswordcombo"
+    },
+    {
+        "op": "add",
+        "path": "/altAbilityType",
+        "value": "parry"
+    }
+]

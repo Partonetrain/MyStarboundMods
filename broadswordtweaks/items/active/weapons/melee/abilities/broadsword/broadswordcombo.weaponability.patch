@@ -1,5 +1,10 @@
 [
     {
+        "op": "add",
+        "path": "/ability/stances/idle/aimAngle",
+        "value": 0
+    },
+    {
         "op": "replace",
         "path": "/ability/stances/windup3/weaponRotation",
         "value": 45
