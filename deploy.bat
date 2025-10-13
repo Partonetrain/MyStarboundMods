@@ -1,5 +1,5 @@
 @echo off
-set "source_dir=H:\Development\Starbound\Mods\Mine\trainsuniqueweapons"
+set "source_dir=H:\Development\Starbound\Mods\MyStarboundMods\broadswordtweaks"
 set "destination_dir=G:\OpenStarbound\mods"
 
 xcopy "%source_dir%" "%destination_dir%\deployed" /E /I /H /K /Y

@@ -1,0 +1,42 @@
+[
+    {
+        "op": "replace",
+        "path": "/ability/stances/windup3/weaponRotation",
+        "value": 45
+    },
+    {
+        "op": "replace",
+        "path": "/ability/stances/wait2/weaponRotation",
+        "value": 45
+    },
+    {
+        "op": "replace",
+        "path": "/ability/stances/fire2/weaponRotation",
+        "value": 45
+    },
+    {
+        "op": "replace",
+        "path": "/ability/stances/windup2/weaponRotation",
+        "value": -70
+    },
+    {
+        "op": "replace",
+        "path": "/ability/stances/wait1/weaponRotation",
+        "value": -65
+    },
+    {
+        "op": "replace",
+        "path": "/ability/stances/fire1/weaponRotation",
+        "value": -65
+    },
+    {
+        "op": "replace",
+        "path": "/ability/stances/preslash1/weaponRotation",
+        "value": -55
+    },
+    {
+        "op": "replace",
+        "path": "/ability/stances/windup1/weaponRotation",
+        "value": -20
+    }
+]

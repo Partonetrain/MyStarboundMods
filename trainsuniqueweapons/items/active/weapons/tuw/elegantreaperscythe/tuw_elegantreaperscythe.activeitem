@@ -33,7 +33,8 @@
   "upgradeParameters" : {
     "inventoryIcon" : "elegantreaperscythe_l6.png",
     "animationParts" : {
-      "blade" : "elegantreaperscythe_l6.png"
+      "blade" : "elegantreaperscythe_l6.png",
+	  "weaponfullbright": "elegantreaperscytheFB_l6.png"
     },
     "shortdescription" : "Elegant Reaper's Scythe ^yellow;^reset;"
   },

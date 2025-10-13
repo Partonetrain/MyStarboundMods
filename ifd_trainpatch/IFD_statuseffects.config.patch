@@ -1,0 +1,245 @@
+[
+
+	{
+        "op": "add",
+        "path": "/effectNames/nofalldamage",
+        "value": {
+            "path": "/stats/effects/nofalldamage/nofalldamage.statuseffect",
+            "customLabels": [
+                "^green;+ Fall Dmg. Immunity^reset;"
+            ]
+        }
+    },
+
+    {
+        "op": "add",
+        "path": "/effectNames/taterlove",
+        "value": {
+            "path": "/stats/effects/trainmod/taterlove.statuseffect",
+            "customLabels": [
+                "^green;+ 50% Run Boost^reset;",
+                "^green;+ 50% Jump Boost^reset;",
+                "^green;- 50% Fall Damage^reset;"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/effectNames/estrogenheal",
+        "value": {
+            "path": "/stats/effects/hrtstims/estrogenheal.statuseffect",
+            "customLabels": [
+                "^green;+ Feminine Heal^reset;",
+                "^green;+ Feminine Energy Reg.^reset;"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/effectNames/testosteronebuff",
+        "value": {
+            "path": "/stats/effects/hrtstims/testosteronebuff.statuseffect",
+            "customLabels": [
+                "^green;+ Masculine Bulk^reset;",
+                "^green;+ Masculine Power^reset;"
+            ]
+        }
+    },
+	
+    {
+        "op": "add",
+        "path": "/effectNames/pf_stimjumpboost",
+        "value": {
+            "path": "/stats/effects/jumpboost/pf_stimjumpboost.statuseffect",
+            "customLabels": [
+                "^green;+ 50% Jump Boost^reset;"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/effectNames/pf_stimrunboost",
+        "value": {
+            "path": "/stats/effects/runboost/pf_stimrunboost.statuseffect",
+            "customLabels": [
+                "^green;+ 50% Run Boost^reset;"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/effectNames/pf_stimrage",
+        "value": {
+            "path": "/stats/effects/rage/pf_stimrage.statuseffect",
+            "effectConfigTypes": [
+                "powerModifier"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/effectNames/pf_stimglow",
+        "value": {
+            "path": "/stats/effects/glow/pf_stimglow.statuseffect",
+            "customLabels": [
+                "^green;+ Glow^reset;"
+            ]
+        }
+    },
+	
+    {
+        "op": "add",
+        "path": "/effectNames/pf_fluidspray",
+        "value": {
+            "path": "/stats/effects/pf_fluidspray/pf_fluidspray.statuseffect",
+            "customLabels": [
+                "^green;+ Wet Immunity^reset;",
+                "^green;+ Swamped Immunity^reset;",
+                "^green;+ Tarred Immunity^reset;"
+            ]
+        }
+    },
+	
+    {
+        "op": "add",
+        "path": "/effectNames/pf_mildbiomepoisonprotection",
+        "value": {
+            "path": "/stats/effects/biomeprotection/biomepoisonprotection/pf_mildbiomepoisonprotection.statuseffect",
+            "customLabels": [
+                "^green;+ Toxic Protection^reset;"
+            ]
+        }
+    },
+	{
+        "op": "add",
+        "path": "/effectNames/pf_mildbiomeheatprotection",
+        "value": {
+            "path": "/stats/effects/biomeprotection/biomeheatprotection/pf_mildbiomeheatprotection.statuseffect",
+            "customLabels": [
+                "^green;+ Heat Protection^reset;"
+            ]
+        }
+    },
+	{
+        "op": "add",
+        "path": "/effectNames/pf_biomeairlessprotection",
+        "value": {
+            "path": "/stats/effects/biomeprotection/biomeairlessprotection/pf_biomeairlessprotection.statuseffect",
+            "customLabels": [
+                "^green;+ Breath Immunity^reset;"
+            ]
+        }
+    },
+	{
+        "op": "add",
+        "path": "/effectNames/pf_mildbiomecoldprotection",
+        "value": {
+            "path": "/stats/effects/biomeprotection/biomecoldprotection/pf_mildbiomecoldprotection.statuseffect",
+            "customLabels": [
+                "^green;+ Cold Protection^reset;"
+            ]
+        }
+    },
+	{
+        "op": "add",
+        "path": "/effectNames/pf_mildbiomelightningprotection",
+        "value": {
+            "path": "/stats/effects/biomeprotection/biomelightningprotection/pf_mildbiomelightningprotection.statuseffect",
+            "customLabels": [
+                "^green;+ Static Protection^reset;"
+            ]
+        }
+    },
+	{
+        "op": "add",
+        "path": "/effectNames/pf_mildbiomeradiationprotection",
+        "value": {
+            "path": "/stats/effects/biomeprotection/biomeradiationprotection/pf_mildbiomeradiationprotection.statuseffect",
+            "customLabels": [
+                "^green;+ Radiation Protection^reset;"
+            ]
+        }
+    },
+	{
+        "op": "add",
+        "path": "/effectNames/pf_biomepoisonprotection",
+        "value": {
+            "path": "/stats/effects/biomeprotection/biomepoisonprotection/pf_biomepoisonprotection.statuseffect",
+            "customLabels": [
+                "^green;+ Toxic Immunity^reset;"
+            ]
+        }
+    },
+	{
+        "op": "add",
+        "path": "/effectNames/pf_biomeheatprotection",
+        "value": {
+            "path": "/stats/effects/biomeprotection/biomeheatprotection/pf_biomeheatprotection.statuseffect",
+            "customLabels": [
+                "^green;+ Heat Immunity^reset;"
+            ]
+        }
+    },
+	{
+        "op": "add",
+        "path": "/effectNames/pf_biomecoldprotection",
+        "value": {
+            "path": "/stats/effects/biomeprotection/biomecoldprotection/pf_biomecoldprotection.statuseffect",
+            "customLabels": [
+                "^green;+ Cold Immunity^reset;"
+            ]
+        }
+    },
+	{
+        "op": "add",
+        "path": "/effectNames/pf_biomeradiationprotection",
+        "value": {
+            "path": "/stats/effects/biomeprotection/biomeradiationprotection/pf_biomeradiationprotection.statuseffect",
+            "customLabels": [
+                "^green;+ Radiation Immunity^reset;"
+            ]
+        }
+    },
+	{
+        "op": "add",
+        "path": "/effectNames/pf_biomeradiationprotection",
+        "value": {
+            "path": "/stats/effects/biomeprotection/biomeradiationprotection/pf_biomeradiationprotection.statuseffect",
+            "customLabels": [
+                "^green;+ Radiation Immunity^reset;"
+            ]
+        }
+    },
+	{
+        "op": "add",
+        "path": "/effectNames/pf_biomelightningprotection",
+        "value": {
+            "path": "/stats/effects/biomeprotection/biomelightningprotection/pf_biomelightningprotection.statuseffect",
+            "customLabels": [
+                "^green;+ Static Immunity^reset;"
+            ]
+        }
+    },
+	
+	{
+        "op": "add",
+        "path": "/effectNames/pf_defenseboostfood",
+        "value": {
+            "path": "/stats/effects/defenseboost/pf_defenseboostfood.statuseffect",
+			"customLabels" : [ "^green;- 15% Dmg. Taken^reset;" ]
+        }
+    },
+	
+	
+	
+    {
+        "op": "add",
+        "path": "/effectNames/r-moonscreen",
+        "value": {
+            "path": "/stats/effects/r-moonscreen/r-moonscreen.statuseffect",
+            "customLabels": [
+                "^green;+ Ghost Immunity^reset;"
+            ]
+        }
+    }
+]

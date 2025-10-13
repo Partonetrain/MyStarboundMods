@@ -1,0 +1,11 @@
+{
+  "author" : "Partonetrain",
+  "description" : "Adds support to Improved Food Descriptions for the effects and items of the following mods (and potentially more as I come across them in my playthrough):\n-Train's Mod\n-HRT Stim Packs\n-Starburst Rework\n-Even Less Dead Moons (moonscreen)\n\nI whipped this up for myself, so I don't know what happens if you try to use this with only some of these mods. I would hope that IFD handles unknown effects. Please let me know in the comments.",
+  "friendlyName" : "Train's Patch for Improved Food Descriptions",
+  "link" : "steam://url/CommunityFilePage/3581473706",
+  "name" : "ifd_trainpatch",
+  "priority" : 100000000,
+  "steamContentId" : "3581473706",
+  "tags" : "User Interface",
+  "version" : "1"
+}

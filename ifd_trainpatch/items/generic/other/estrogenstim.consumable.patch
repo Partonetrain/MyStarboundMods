@@ -1,0 +1,12 @@
+[
+{
+  "op": "add",
+  "path": "/tooltipKind",
+  "value": "stim"
+},
+{
+  "op": "add",
+  "path": "/builder",
+  "value": "/items/buildscripts/buildfood.lua"
+}
+]

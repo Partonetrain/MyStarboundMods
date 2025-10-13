@@ -8,5 +8,5 @@
     "item" : "estrogenstim",
     "count" : 5
   },
-  "groups" : [ "craftingmedical2", "healing" ]
+  "groups" : [ "craftingmedical2", "buffs" ]
 }

@@ -1,11 +1,11 @@
 {
   "author" : "Partonetrain",
-  "description" : "\"In space, DIY HRT is easy!\"\n\nAdds testosterone and estrogen themed Stim Packs. They don't actually change your character's gender, but give you buffs.\nEstrogen rapidly restores your health and energy in 4 seconds (lore: by redistributing your body fat).\nTestosterone gives you a x1.3 damage multiplier and +20 protection for 4 minutes (lore: by making you bulkier).\nThese are obviously overpowered.\n\nYes, you can be on both E and T at the same time.\n\nRecipes unlocked by picking up a Bio Sample, like other stim packs. (As a bonus, picking up a Bio Sample with this mod will also teach you the recipe for the otherwise-unused Orange Stim Packs). Both are crafted in bulk at the Medical Station (or FU Health Center). \n\n*this is more of a joke mod than anything*\n\nUpdate 1.1 fixes the Bio Sample learned recipes possibly replacing other mods' learned recipes from that item\nUpdate 1.2 nerfs T slightly and makes E actually work good",
+  "description" : "\"In space, DIY HRT is easy!\"\n\nAdds testosterone and estrogen themed Stim Packs. They don't actually change your character's gender, but give you buffs.\nEstrogen rapidly restores your health and energy in 4 seconds (lore: by redistributing your body fat).\nTestosterone gives you a x1.3 damage multiplier and +20 protection for 4 minutes (lore: by making you bulkier).\nThese are obviously overpowered.\n\nYes, you can be on both E and T at the same time.\n\nRecipes unlocked by picking up a Bio Sample, like other stim packs. (As a bonus, picking up a Bio Sample with this mod will also teach you the recipe for the otherwise-unused Orange Stim Packs). Both are crafted in bulk at the Medical Station (or FU Health Center). \n\n*this is more of a joke mod than anything*\n\nUpdate 1.1 fixes the Bio Sample learned recipes possibly replacing other mods' learned recipes from that item\nUpdate 1.2 nerfs T slightly and makes E actually work good\nUpdate 1.3 moves Estrogen stim pack to the same tab as all the other stim packs",
   "friendlyName" : "HRT Stim Packs",
   "link" : "steam://url/CommunityFilePage/2957770293",
   "name" : "HRTStims",
   "priority" : 0,
   "steamContentId" : "2957770293",
   "tags" : "Cheats and God Items|In-Game Tools",
-  "version" : "1.2"
+  "version" : "1.3"
 }

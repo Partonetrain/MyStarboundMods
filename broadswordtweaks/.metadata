@@ -1,0 +1,8 @@
+{
+  "author" : "Partonetrain",
+  "description" : "A few tweaks to broadswords:\n-The angle of broadswordcombo is 10 degrees lower, allowing you to hit enemies slightly below you (my biggest peeve with broadswords)\n-The Firestorm's Fury (flamingdemonsword) now uses the broadswordcombo just like every other broadsword\n-The Soulseeker is now two-handed, uses broadswordcombo, and now has the Parry alt ability",
+  "friendlyName" : "Broadsword Tweaks",
+  "name" : "broadswordtweaks",
+  "priority" : 100,
+  "version" : "1"
+}
