@@ -186,7 +186,7 @@
   },
 
   "particleEmitters" : {
-	"physicalswoosh" : {
+	"idleparticles1" : {
       "active" : true,
       "transformationGroups" : ["swoosh"],
       "emissionRate" : 1.5,

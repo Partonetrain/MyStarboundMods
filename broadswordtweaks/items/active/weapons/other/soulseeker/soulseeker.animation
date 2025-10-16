@@ -116,10 +116,17 @@
 
   "particleEmitters" : {
     "physicalswoosh" : {
+      "active" : false,
+      "transformationGroups" : ["swoosh"],
+      "emissionRate" : 50,
+      "offsetRegion" : [0.75, 0.0, 4.25, 5.0],
+      "particles" : []
+    },
+	"idleparticles1" : {
       "active" : true,
       "transformationGroups" : ["swoosh"],
       "emissionRate" : 3,
-      "offsetRegion" : [1.75, 0.0, 1.75, 0],
+      "offsetRegion" : [1.75, 0, 1.75, 0],
       "particles" : [
         { "particle" : "soulseeker"},
         { "particle" : "soulseeker"},

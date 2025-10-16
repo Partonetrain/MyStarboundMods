@@ -1,8 +1,11 @@
 {
   "author" : "Partonetrain",
-  "description" : "A few tweaks to broadswords:\n-The angle of broadswordcombo is 10 degrees lower, allowing you to hit enemies slightly below you (my biggest peeve with broadswords)\n-The Firestorm's Fury (flamingdemonsword) now uses the broadswordcombo just like every other broadsword\n-The Soulseeker is now two-handed (why is it one-handed in the first place?), uses broadswordcombo, now has the Parry alt ability, and inflicts the otherwise-unused 'crash' effect.\n\n!!This mod replaces rocketspear.lua, and is probably incompatible with anything that causes broadswords to be aimable!!",
+  "description" : "A few tweaks to broadswords:\n-The angle of broadswordcombo is 10 degrees lower, allowing you to hit enemies slightly below you (my biggest peeve with broadswords)\n-The Firestorm's Fury (flamingdemonsword) now uses the broadswordcombo just like every other broadsword\n-The Soulseeker is now two-handed (why is it one-handed in the first place?), uses broadswordcombo, now has the Parry alt ability, and inflicts the otherwise-unused 'crash' effect.\n\n!!This mod replaces rocketspear.lua, flamingdemonsword.animation, soulseeker.animation, and is probably incompatible with anything that causes broadswords to be aimable!! Every other change is a patch and should be compatible.",
   "friendlyName" : "Broadsword Tweaks",
+  "link" : "steam://url/CommunityFilePage/3587733212",
   "name" : "broadswordtweaks",
   "priority" : 100,
+  "steamContentId" : "3587733212",
+  "tags" : "Mechanics",
   "version" : "1"
 }
