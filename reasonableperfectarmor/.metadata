@@ -1,0 +1,11 @@
+{
+  "author" : "Partonetrain",
+  "description" : "Makes a full set of perfect armor require a total of 50 Perfectly Generic Items instead of 100.",
+  "friendlyName" : "More Reasonable Perfect Armor Recipe",
+  "link" : "steam://url/CommunityFilePage/3590191790",
+  "name" : "morereasonableperfectarmor",
+  "priority" : 100,
+  "steamContentId" : "3590191790",
+  "tags" : "Armor and Clothes",
+  "version" : "1"
+}
