@@ -1,11 +1,11 @@
 {
   "author" : "Partonetrain",
-  "description" : "Changes a bunch of Project Knightfall recipes to require tier 6 materials from Project Redemption and Starburst Rework. No more crazy progression jumps.\nMostly a mod for myself, but I figure someone out there wants this...\nv2 also changes the Solarium Star added to the Perfectly Generic Item recipe by Project Redemption to Radioactive Remains",
+  "description" : "Changes a bunch of Project Knightfall recipes to require tier 6 materials from Project Redemption and Starburst Rework. No more crazy progression jumps.\nMostly a mod for myself, but I figure someone out there wants this...\nv2 also changes the Solarium Star added to the Perfectly Generic Item recipe by Project Redemption to Radioactive Remains\nv3 changes recipes further, technically things are cheaper than before but still a grind as Knightfall is designed",
   "friendlyName" : "BurstDemptFall",
   "link" : "steam://url/CommunityFilePage/3571911247",
   "name" : "burstdemptfall",
   "priority" : 100,
   "steamContentId" : "3571911247",
   "tags" : "Mechanics",
-  "version" : "2"
+  "version" : "3"
 }

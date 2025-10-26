@@ -1,0 +1,35 @@
+[
+    {
+        "op": "replace",
+        "path": "/input/3/item",
+        "value": "salvagebody"
+    },
+    {
+        "op": "replace",
+        "path": "/input/2/count",
+        "value": 25
+    },
+    {
+        "op": "replace",
+        "path": "/input/2/item",
+        "value": "solariumstar"
+    },
+    {
+        "op": "replace",
+        "path": "/input/1/count",
+        "value": 25
+    },
+    {
+        "op": "replace",
+        "path": "/input/0/count",
+        "value": 25
+    },
+    {
+        "op": "add",
+        "path": "/input/4",
+        "value": {
+            "item": "salvagetier6",
+            "count": 20
+        }
+    }
+]

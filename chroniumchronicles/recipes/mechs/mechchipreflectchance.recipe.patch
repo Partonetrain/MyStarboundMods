@@ -1,0 +1,10 @@
+[
+    {
+        "op": "add",
+        "path": "/input/2",
+        "value": {
+            "item": "solariumstar",
+            "count": 50
+        }
+    }
+]

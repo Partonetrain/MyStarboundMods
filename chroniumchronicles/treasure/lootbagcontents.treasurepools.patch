@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/bossbags:tierbasedbars/5/1/pool/0/item/0",
+        "value": "pf_chroniumbar"
+    },
+    {
+        "op": "replace",
+        "path": "/bossbags:tierbasedbars/4/1/pool/2/item/0",
+        "value": "solariumstar"
+    }
+]

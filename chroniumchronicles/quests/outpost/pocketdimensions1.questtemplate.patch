@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/conditions/0/itemName",
+        "value": "pf_chroniumbar"
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "Wonderful! Chronium is the only material strong enough to withstand the titanic forces my design will create. But I still need more components..."
+    },
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "Studying Ancient technology has given me an idea for a radical new device capable of manipulating space-time itself. I need some rare metal to finish my prototype. ^green;Could you bring me ^orange;50 Chronium Bars^reset;?"
+    }
+]

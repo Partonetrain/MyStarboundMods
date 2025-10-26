@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "pf_forestdisk", "count" : 2 },
+    { "item" : "pf_forestdisk", "count" : 1 },
     { "item" : "volatilepowder", "count" : 2 }
   ],
   "output" : { "item" : "knightfall_grenadesbox", "count" : 1 },

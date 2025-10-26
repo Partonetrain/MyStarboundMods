@@ -1,0 +1,14 @@
+[
+    {
+        "op": "remove",
+        "path": "/groups/2"
+    },
+    {
+        "op": "remove",
+        "path": "/groups/1"
+    },
+    {
+        "op": "remove",
+        "path": "/groups/0"
+    }
+]

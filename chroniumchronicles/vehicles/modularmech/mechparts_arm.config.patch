@@ -1,0 +1,42 @@
+[
+    {
+        "op": "replace",
+        "path": "/drill5/defaultPrimaryColors/3",
+        "value": "393939"
+    },
+    {
+        "op": "replace",
+        "path": "/drill5/defaultPrimaryColors/2",
+        "value": "5b5b5b"
+    },
+    {
+        "op": "replace",
+        "path": "/drill5/defaultPrimaryColors/1",
+        "value": "6e6e6e"
+    },
+    {
+        "op": "replace",
+        "path": "/drill5/defaultPrimaryColors/0",
+        "value": "bfbfbf"
+    },
+    {
+        "op": "replace",
+        "path": "/drill4/defaultPrimaryColors/3",
+        "value": "3A5E42"
+    },
+    {
+        "op": "replace",
+        "path": "/drill4/defaultPrimaryColors/2",
+        "value": "589967"
+    },
+    {
+        "op": "replace",
+        "path": "/drill4/defaultPrimaryColors/1",
+        "value": "7DB88B"
+    },
+    {
+        "op": "replace",
+        "path": "/drill4/defaultPrimaryColors/0",
+        "value": "9BCEA7"
+    }
+]

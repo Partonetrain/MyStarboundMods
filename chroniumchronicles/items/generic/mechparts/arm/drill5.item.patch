@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "Chronium Drill Mech Arm"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "The most powerful mech drill, which can serve as a weapon in a pinch."
+    }
+]

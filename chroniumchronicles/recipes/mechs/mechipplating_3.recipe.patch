@@ -1,0 +1,58 @@
+[
+    {
+        "op": "replace",
+        "path": "/input/3/count",
+        "value": 20
+    },
+    {
+        "op": "replace",
+        "path": "/input/3/item",
+        "value": "salvagebody"
+    },
+    {
+        "op": "replace",
+        "path": "/input/2/count",
+        "value": 10
+    },
+    {
+        "op": "replace",
+        "path": "/input/2/item",
+        "value": "uraniumrod"
+    },
+    {
+        "op": "replace",
+        "path": "/input/1/count",
+        "value": 10
+    },
+    {
+        "op": "replace",
+        "path": "/input/1/item",
+        "value": "pf_shadowstar"
+    },
+    {
+        "op": "replace",
+        "path": "/input/0/count",
+        "value": 10
+    },
+    {
+        "op": "replace",
+        "path": "/input/0/item",
+        "value": "pf_scorchedrod"
+    },
+    {
+        "op": "add",
+        "path": "/input/4",
+        "value": {
+            "item": "salvagetier6",
+            "count": 20
+        }
+    },
+    {
+        "op": "add",
+        "path": "/input/5",
+        "value": {
+            "item": "mechchipplating_2",
+            "count": 1
+        }
+    }
+]

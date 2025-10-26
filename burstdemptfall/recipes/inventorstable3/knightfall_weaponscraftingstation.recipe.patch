@@ -1,18 +1,28 @@
 [
     {
         "op": "replace",
+        "path": "/input/3/count",
+        "value": 5
+    },
+    {
+        "op": "replace",
         "path": "/input/3/item",
-        "value": "pf_scorchedrod"
+        "value": "uraniumrod"
     },
     {
         "op": "replace",
         "path": "/input/2/count",
-        "value": 10
+        "value": 5
     },
     {
         "op": "replace",
         "path": "/input/2/item",
-        "value": "uraniumrod"
+        "value": "pf_scorchedrod"
+    },
+    {
+        "op": "replace",
+        "path": "/input/1/count",
+        "value": 5
     },
     {
         "op": "replace",

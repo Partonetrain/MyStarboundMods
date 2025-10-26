@@ -1,0 +1,11 @@
+{
+  "author" : "Partonetrain",
+  "description" : "Simply disables the recipes for Ancient Block and Ancient Brick (but not Ancient Platforms) from Extended Block Crafting. Why? Because Project Ancient Cosmos has a different way of obtaining these.",
+  "friendlyName" : "Disable Extended Block Crafting Ancient Block Recipes",
+  "link" : "steam://url/CommunityFilePage/3593661941",
+  "name" : "disableextendedblockcraftingancient",
+  "priority" : 100,
+  "steamContentId" : "3593661941",
+  "tags" : "Mechanics",
+  "version" : "1"
+}
