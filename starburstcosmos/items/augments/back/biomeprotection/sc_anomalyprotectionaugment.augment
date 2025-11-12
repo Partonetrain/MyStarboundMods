@@ -1,0 +1,22 @@
+{
+  "itemName" : "sc_anomalyprotectionaugment",
+  "price" : 7500,
+  "rarity" : "Legendary",
+  "tooltipKind" : "eppaugment",
+  "category" : "eppAugment",
+  "inventoryIcon" : "sc_anomalyprotectionaugment.png",
+  "description" : "An EPP module that anchors you to reality. ^red;With this, even standing in a spacial rift won't kill you.^white;",
+  "shortdescription" : "Anomaly Augment",
+
+  "augment" : {
+    "type" : "back",
+    "name" : "sc_anomalyprotection",
+    "displayName" : "Anomaly Immunity",
+    "displayIcon" : "/items/augments/back/biomeprotection/sc_anomalyprotectionaugment.png",
+    "effects" : [ "breathProtection", "biomeanomalyImmunity", "biomeanomalyImmunity2" ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupaugment" ],
+
+  "scripts" : [ "/scripts/augments/augment.lua" ]
+}

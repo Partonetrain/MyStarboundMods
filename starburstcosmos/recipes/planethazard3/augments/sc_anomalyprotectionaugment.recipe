@@ -1,0 +1,16 @@
+{
+  "input" : [
+	{ "item" : "stickofram", "count" : 2 },
+	{ "item" : "essence", "count" : 100 },
+	{ "item" : "pf_ancientrock", "count" : 5 },
+	{ "item" : "pf_technologicbar", "count" : 5 },
+	{ "item" : "pf_ancientcb", "count" : 2 },
+	{ "item" : "pf_pureessence", "count" : 2 },
+	{ "item" : "pf_voiddiamond", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "sc_anomalyprotectionaugment",
+    "count" : 1
+  },
+  "groups" : [ "pf_craftingplanetresist3", "augments" ]
+}

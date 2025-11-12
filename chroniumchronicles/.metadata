@@ -1,9 +1,11 @@
 {
   "author" : "Partonetrain",
-  "description" : "Re-arranges recipes in several mods in accordance with Starburst Rework's progression, particularly replacing Solarium with Chronium. Generally only progression-related things are changed, things like furniture aren't. Supported mods (and changes):\n-Vanilla (certain mech recipes)\n-Project Ancient Cosmos (recipes, SBR lightning protection protects against P:AC electrostatic, moves anomaly EPPs to SBR hazard lab)\n-Boss Loot Bags (treasure pools)\n-Pocket Dimensions (quests and recipe) \nMore Mech Drill Tiers (recipes, item names & art)\n-Transfiguration Gun (recipe)\n-Mechs are made of ARMOR (recipe)",
+  "description" : "Re-arranges recipes in several mods in accordance with Starburst Rework's progression, particularly replacing Solarium with Chronium. Generally only progression-related things are changed, things like furniture aren't. Supported mods (and changes):\n-Vanilla (mech body recipes)\n-Project Ancient Cosmos (recipes)\n-Boss Loot Bags (treasure pools)\n-Pocket Dimensions (quests and recipe) \n-More Mech Drill Tiers (recipes, item names & art)\n-Transfiguration Gun (recipe)\n-Mechs are made of ARMOR (recipe)\n\nFeel free to suggest (non-FU) mods in the comments, no promises though",
   "friendlyName" : "Chronium Chronicles",
+  "link" : "steam://url/CommunityFilePage/3595981252",
   "name" : "chroniumchronicles",
+  "priority" : 1000,
+  "steamContentId" : "3595981252",
   "tags" : "Mechanics",
-  "version" : "1",
-  "priority": 1000
+  "version" : "1"
 }

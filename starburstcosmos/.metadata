@@ -1,0 +1,9 @@
+{
+  "author" : "Partonetrain",
+  "description" : "Adjusts Project Ancient Cosmos content to be more in line with Starburst Rework's hazard protection.\n-Starburst Static protection now protects from P:AC electrostatic\n-Electrostatic EPPs from P:AC recipes removed and are now unobtainable\n-Reality Anchor recipe moved to Hazard Table\n-New item, Anomaly Augment (sc_anomalyprotectionaugment), with equivalent effects to the P:AC Reality Anchor EPP\n-Adjusts many item descriptions to make these adjustments clearer",
+  "friendlyName" : "Starburst-Cosmos patch",
+  "name" : "starburstcosmos",
+  "tags" : "Mechanics",
+  "priority": 100,
+  "version" : "1"
+}

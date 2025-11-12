@@ -1,0 +1,10 @@
+[
+    {
+        "op": "remove",
+        "path": "/learnBlueprintsOnPickup/1"
+    },
+    {
+        "op": "remove",
+        "path": "/learnBlueprintsOnPickup/0"
+    }
+]
