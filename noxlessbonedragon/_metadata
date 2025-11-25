@@ -1,0 +1,11 @@
+{
+  "author" : "Partonetrain",
+  "description" : "Very simple sprite edit that removes Asra Nox from the Bone Dragon. I always thought she looked a bit odd being completely static up there, and some mod I have adds Bone Dragons in missions outside of missions, so it makes more sense if she just isn't riding it. It's not *exactly* how it looked in the Alpha (so the thumbnail is a little misleading), but it's close. This mod is priority 1000 so hopefully it loads after any other mods that touch this sprite",
+  "friendlyName" : "Nox-less Bone Dragon",
+  "link" : "steam://url/CommunityFilePage/3609954081",
+  "name" : "noxlessbonedragon",
+  "priority" : 1000,
+  "steamContentId" : "3609954081",
+  "tags" : "Miscellaneous|NPCs and Creatures",
+  "version" : "1"
+}

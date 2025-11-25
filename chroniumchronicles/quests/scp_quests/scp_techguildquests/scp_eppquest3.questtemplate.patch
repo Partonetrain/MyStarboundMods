@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "The next item on sale is a ^orange;Heating EPP^white;. I could sell it to you for ^yellow;12000 pixels^white;."
+    }
+]

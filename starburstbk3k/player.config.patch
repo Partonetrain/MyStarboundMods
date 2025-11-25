@@ -1,0 +1,22 @@
+[
+    {
+        "op": "add",
+        "path": "/inventoryFilters/mainBag/categoryBlacklist/-",
+        "value": "pf_referenceWeapon"
+    },
+    {
+        "op": "add",
+        "path": "/inventoryFilters/mainBag/categoryBlacklist/-",
+        "value": "pf_polearm"
+    },
+    {
+        "op": "add",
+        "path": "/inventoryFilters/armoryBag/categoryWhitelist/-",
+        "value": "pf_referenceWeapon"
+    },
+    {
+        "op": "add",
+        "path": "/inventoryFilters/armoryBag/categoryWhitelist/-",
+        "value": "pf_polearm"
+    }
+]

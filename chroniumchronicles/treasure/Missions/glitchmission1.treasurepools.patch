@@ -1,0 +1,12 @@
+[
+    {
+        "op": "add",
+        "path": "/glitchmission1Reward/0/1/fill/-",
+        "value": {
+            "item": [
+                    "aegisaltore",
+                    4
+                ]
+        }
+    }
+]

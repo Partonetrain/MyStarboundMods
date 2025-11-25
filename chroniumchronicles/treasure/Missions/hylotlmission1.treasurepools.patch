@@ -1,0 +1,12 @@
+[
+    {
+        "op": "add",
+        "path": "/hylotlmissionReward/0/1/fill/-",
+        "value": {
+            "item": [
+                    "pf_oceanore",
+                    4
+                ]
+        }
+    }
+]

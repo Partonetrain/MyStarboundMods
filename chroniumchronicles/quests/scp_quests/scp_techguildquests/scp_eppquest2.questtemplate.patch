@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "I happen to have a ^green;Radiation EPP^white; on me that I need to offload. You can have it for a measly ^yellow;8000 pixels^white;..."
+    }
+]

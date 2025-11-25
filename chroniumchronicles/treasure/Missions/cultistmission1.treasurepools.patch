@@ -1,0 +1,9 @@
+[
+    {
+        "op": "add",
+        "path": "/cultistmission1Reward/0/1/fill/-",
+        "value": {
+            "pool": "chroniumchronicles_bonusore"
+        }
+    }
+]

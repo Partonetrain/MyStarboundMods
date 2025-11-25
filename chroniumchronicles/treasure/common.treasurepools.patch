@@ -1,0 +1,169 @@
+[
+    {
+        "op": "replace",
+        "path": "/ore/5/1/pool/1/item/0",
+        "value": "pf_chroniumore"
+    },
+    {
+        "op": "add",
+        "path": "/ore/5/1/pool/-",
+        "value": {
+            "weight": 0.1,
+            "item": [
+                "pf_scorchedore",
+                4
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/ore/5/1/pool/-",
+        "value": {
+            "weight": 0.1,
+            "item": [
+                "pf_shadowore",
+                4
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/ore/5/1/pool/-",
+        "value": {
+            "weight": 0.1,
+            "item": [
+                "uraniumore",
+                4
+            ]
+        }
+    },
+    {
+        "op": "replace",
+        "path": "/ore/4/1/pool/3/weight",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/ore/4/1/pool/1/weight",
+        "value": 0.1
+    },
+    {
+        "op": "add",
+        "path": "/ore/4/1/pool/-",
+        "value": {
+            "weight": 0.1,
+            "item": [
+                "solariumore",
+                4
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/ore/3/1/pool/-",
+        "value": {
+            "weight": 0.1,
+            "item": [
+                "pf_alienore",
+                4
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/ore/3/1/pool/-",
+        "value": {
+            "weight": 0.1,
+            "item": [
+                "pf_jungleore",
+                4
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/ore/2/1/pool/-",
+        "value": {
+            "weight": 0.1,
+            "item": [
+                "pf_oceanore",
+                4
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/ore/2/1/pool/-",
+        "value": {
+            "weight": 0.1,
+            "item": [
+                "pf_desertore",
+                4
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/ore/2/1/pool/-",
+        "value": {
+            "weight": 0.1,
+            "item": [
+                "pf_snowore",
+                4
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/ore/1/1/pool/-",
+        "value": {
+            "weight": 0.1,
+            "item": [
+                "pf_forestore",
+                4
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/ore/1/1/pool/-",
+        "value": {
+            "weight": 0.1,
+            "item": [
+                "pf_savannahore",
+                4
+            ]
+        }
+    },
+	
+	{
+        "op": "add",
+        "path": "/endTreasure/0/1/fill/-",
+        "value": {
+            "item": [
+                "feroziumore",
+                4
+            ]
+        }
+    },
+	{
+        "op": "add",
+        "path": "/endTreasure/0/1/fill/-",
+        "value": {
+            "item": [
+                "violiumore",
+                4
+            ]
+        }
+    },
+	{
+        "op": "add",
+        "path": "/endTreasure/0/1/fill/-",
+        "value": {
+            "item": [
+                "solariumore",
+                4
+            ]
+        }
+    }
+]

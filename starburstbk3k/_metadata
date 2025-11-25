@@ -1,0 +1,12 @@
+{
+  "author" : "Partonetrain",
+  "description" : "Items in the Otherworldly Weapons (or Polearm, not-yet-implemented) category will now correctly go into the armory tab for BK3K's inventory.",
+  "friendlyName" : "Starburst-BK3K Compatibility patch",
+  "includes" : ["bk3k_inventory"],
+  "link" : "steam://url/CommunityFilePage/3610049094",
+  "name" : "starburstbk3k",
+  "priority" : 500,
+  "steamContentId" : "3610049094",
+  "tags" : "User Interface|Mechanics",
+  "version" : "1"
+}

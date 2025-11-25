@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "The last item I need to get rid of is the ^cyan;Cooling EPP^white;. You can have it for another ^yellow;12000 pixels^white;."
+    }
+]

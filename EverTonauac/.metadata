@@ -1,10 +1,11 @@
 {
   "author" : "Partonetrain",
-  "description" : "Tonauac in the Outpost always gives you all blessings, at once. This is obviously overpowered.\n\nAll this does is replace \\scripts\\actions\\npc\\tonauac.lua iterate through the list of effects in \\npcs\\outpost\\tonauacoutpost.npctype, it doesn't change the kinds of buffs or duration of them in that file. It should be compatible with other mods that change tonauacoutpost.npctype.",
+  "description" : "Tonauac in the Outpost always gives you all blessings, at once. This is obviously overpowered.\n\nAll this does is replace \\scripts\\actions\\npc\\tonauac.lua iterate through the list of effects in \\npcs\\outpost\\tonauacoutpost.npctype, it doesn't change the kinds of buffs or duration of them in that file. It should be compatible with other mods that change tonauacoutpost.npctype.\n\nv1.2 adds support for my Altar Blessings mod - now using an Avian Prayer Altar will grant you all blessings (assuming you have that mod installed)",
   "friendlyName" : "EverTonauac",
   "link" : "steam://url/CommunityFilePage/2962971577",
   "name" : "EverTonauac",
+  "priority" : 10,
   "steamContentId" : "2962971577",
   "tags" : "Miscellaneous|NPCs and Creatures|Cheats and God Items|Mechanics",
-  "version" : "1.0"
+  "version" : "1.2"
 }

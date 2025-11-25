@@ -1,0 +1,63 @@
+{
+    "ore" : [
+    [0, {
+      "poolRounds" : [[0.6, 1], [0.3, 2], [0.1, 3]],
+      "pool" : [
+        {"weight" : 0.3, "pool" : "nonTieredOre"},
+        {"weight" : 0.7, "item" : [ "ironore", 4]}
+      ]
+    }],
+    [1.9, {
+      "poolRounds" : [[0.6, 1], [0.3, 2], [0.1, 3]],
+      "pool" : [
+        {"weight" : 0.3, "pool" : "nonTieredOre"},
+        {"weight" : 0.7, "item" : [ "tungstenore", 4]},
+		{"weight" : 0.1, "item" : ["pf_forestore", 4]},
+		{"weight" : 0.1, "item" : ["pf_savannahore", 4]}
+      ]
+    }],
+    [2.9, {
+      "poolRounds" : [[0.6, 1], [0.3, 2], [0.1, 3]],
+      "pool" : [
+        {"weight" : 0.3, "pool" : "nonTieredOre"},
+        {"weight" : 0.65, "item" : [ "titaniumore", 4]},
+        {"weight" : 0.05, "item" : [ "diamond", 1]},
+		{"weight" : 0.1, "item" : ["pf_oceanore", 4]},
+		{"weight" : 0.1, "item" : ["pf_desertore", 4]},
+		{"weight" : 0.1, "item" : ["pf_snowore", 4]}
+      ]
+    }],
+    [3.9, {
+      "poolRounds" : [[0.6, 1], [0.3, 2], [0.1, 3]],
+      "pool" : [
+        {"weight" : 0.3, "pool" : "nonTieredOre"},
+        {"weight" : 0.65, "item" : [ "durasteelore", 4]},
+        {"weight" : 0.05, "item" : [ "diamond", 1]},
+		{"weight" : 0.1, "item" : ["pf_alienore", 4]},
+		{"weight" : 0.1, "item" : ["pf_jungleore", 4]}
+      ]
+    }],
+    [4.9, {
+      "poolRounds" : [[0.6, 1], [0.3, 2], [0.1, 3]],
+      "pool" : [
+        {"weight" : 0.3, "pool" : "nonTieredOre"},
+        {"weight" : 0.1, "item" : [ "violiumore", 4]},
+        {"weight" : 0.2, "item" : [ "aegisaltore", 4]},
+        {"weight" : 0.1, "item" : [ "feroziumore", 4]},
+        {"weight" : 0.1, "item" : [ "diamond", 1]},
+        {"weight" : 0.1, "item" : [ "solariumore", 4]}
+      ]
+    }],
+    [5.9, {
+      "poolRounds" : [[0.6, 1], [0.3, 2], [0.1, 3]],
+      "pool" : [
+        {"weight" : 0.3, "pool" : "nonTieredOre"},
+        {"weight" : 0.6, "item" : [ "pf_chroniumore", 4]},
+        {"weight" : 0.1, "item" : [ "diamond", 1]},
+		{"weight" : 0.1, "item" : ["pf_scorchedore", 4]},
+		{"weight" : 0.1, "item" : ["pf_shadowore", 4]},
+		{"weight" : 0.1, "item" : ["uraniumore", 4]}
+      ]
+    }]
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "author" : "Partonetrain",
+  "description" : "Rob Repairo is now buyable from Penguin Pete for 10,000 pixels.",
+  "friendlyName" : "Buyable Repairo",
+  "link" : "steam://url/CommunityFilePage/3611365585",
+  "name" : "buyablerepairo",
+  "steamContentId" : "3611365585",
+  "tags" : "Miscellaneous|In-Game Tools",
+  "version" : "1"
+}

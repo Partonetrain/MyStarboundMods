@@ -7,6 +7,7 @@ end
 
 function onInteraction(args)
   world.spawnProjectile("potatoheart", object.toAbsolutePosition({ -0.5, 2.0 }))
+  world.sendEntityMessage(args.sourceId, "applyStatusEffect", "taterlove", 3600, entity.id());
   
   randomNum = math.random(1,10)
   if randomNum == 10 then

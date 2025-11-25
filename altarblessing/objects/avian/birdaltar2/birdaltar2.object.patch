@@ -1,0 +1,62 @@
+[
+	{
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "Looks like some ol' altar. These typa things are important to Avians."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "An altar covered in Avian carvings. It has a space to put offerings."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "Intrigued. This altar appears to have a spot for offerings."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "Bird man put ssstuff on ssstone table."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "This altar is covered in carvings of Kluex. The Stargazers use it to commune with Kluex. Offerings are often made here, and in return, Kluex grants blessings."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "An altar. It's covered in intricate carvings of an Avian with wings, and has a spot for offerings."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "The altar is covered in carvings of a winged god. Supposedly, it can grant the worthy blessings."
+    },
+    {
+        "op": "add",
+        "path": "/scripts",
+        "value": [
+            "blessing.lua"
+        ]
+    },
+	{
+        "op": "replace",
+        "path": "/category",
+        "value": "furniture"
+    },
+    {
+        "op": "add",
+        "path": "/blessings",
+        "value": [
+            "regeneration1",
+			"glow",
+			"jumpboost",
+			"nofalldamage",
+			"rage",
+			"runboost",
+			"thorns"
+        ]
+    }
+]

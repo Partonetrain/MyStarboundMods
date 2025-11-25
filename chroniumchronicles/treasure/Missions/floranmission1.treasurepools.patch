@@ -1,0 +1,12 @@
+[
+    {
+        "op": "add",
+        "path": "/florantreasurelore/0/1/fill/-",
+        "value": {
+            "item": [
+                    "pf_forestore",
+                    4
+                ]
+        }
+    }
+]
