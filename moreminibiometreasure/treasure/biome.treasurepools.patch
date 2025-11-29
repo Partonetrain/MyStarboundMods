@@ -1,0 +1,149 @@
+[
+	//surface
+	{
+		"op": "replace",
+		"path": "/mushroomChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/springTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/oasisChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/tarChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/rainbowChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/boneChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/alpineChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/bioluminescenceChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/giantflowerChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/swampChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/eyeChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/eyeChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/iceChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/steamspringChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/prismChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/hiveChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/foundryChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/geodeChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/crystalChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	//underground
+	{
+		"op": "replace",
+		"path": "/mushroomUndergroundChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/wildernessChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/tarUndergroundChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/boneCaveChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/iceCaveChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/stoneCaveChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/luminousCaveChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/fleshChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/cellChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	},
+	{
+		"op": "replace",
+		"path": "/slimeChestTreasure/0/1/pool/1/weight",
+		"value": 0.7
+	}
+]

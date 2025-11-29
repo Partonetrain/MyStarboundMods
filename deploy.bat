@@ -1,5 +1,5 @@
 @echo off
-set "source_dir=H:\Development\Starbound\Mods\MyStarboundMods\chroniumchronicles"
+set "source_dir=H:\Development\Starbound\Mods\MyStarboundMods\moreminibiometreasure"
 set "destination_dir=G:\OpenStarbound\mods"
 
 rd /S "%destination_dir%\deployed"
