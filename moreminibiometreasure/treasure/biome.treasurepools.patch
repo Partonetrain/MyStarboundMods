@@ -145,5 +145,64 @@
 		"op": "replace",
 		"path": "/slimeChestTreasure/0/1/pool/1/weight",
 		"value": 0.7
-	}
+	},
+	
+	//biome-specific
+	{
+        "op": "replace",
+        "path": "/alpineTreasure/0/1/pool/0/weight",
+        "value": 0.5
+    },
+    {
+        "op": "replace",
+        "path": "/alpineTreasure/0/1/pool/8/weight",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/alpineTreasure/0/1/pool/7/weight",
+        "value": 0.1
+    },
+    {
+        "op": "replace",
+        "path": "/alpineTreasure/0/1/pool/6/weight",
+        "value": 0.1
+    },
+	
+	{
+        "op": "replace",
+        "path": "/boneTreasure/0/1/pool/0/weight",
+        "value": 0.7
+    },
+	{
+        "op": "replace",
+        "path": "/boneTreasure/0/1/pool/13/weight",
+        "value": 0.1
+    },
+	
+	{
+        "op": "replace",
+        "path": "/miniVillageTreasure/0/1/pool/0/weight",
+        "value": 1.2
+    },
+	{
+        "op": "replace",
+        "path": "/miniVillageTreasure/0/1/pool/4/weight",
+        "value": 0.01
+    },
+	{
+        "op": "replace",
+        "path": "/miniVillageTreasure/0/1/pool/4/weight",
+        "value": 0.01
+    },
+	{
+        "op": "replace",
+        "path": "/miniVillageTreasure/0/1/pool/5/weight",
+        "value": 0.01
+    },
+	{
+        "op": "replace",
+        "path": "/miniVillageTreasure/0/1/pool/6/weight",
+        "value": 0.01
+    }
 ]
