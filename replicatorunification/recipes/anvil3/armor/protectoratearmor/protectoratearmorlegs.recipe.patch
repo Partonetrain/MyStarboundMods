@@ -1,0 +1,15 @@
+[
+    {
+        "op": "replace",
+        "path": "/input/2/item",
+        "value": "solariumstar"
+    },
+    {
+        "op": "add",
+        "path": "/input/7",
+        "value": {
+            "item": "pf_chroniumbar",
+            "count": 10
+        }
+    }
+]

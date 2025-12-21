@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/input/1/count",
+        "value": 3
+    },
+    {
+        "op": "replace",
+        "path": "/input/1/item",
+        "value": "prisilitestar"
+    },
+    {
+        "op": "replace",
+        "path": "/input/0/count",
+        "value": 6
+    },
+    {
+        "op": "replace",
+        "path": "/input/0/item",
+        "value": "refinedaegisalt"
+    }
+]

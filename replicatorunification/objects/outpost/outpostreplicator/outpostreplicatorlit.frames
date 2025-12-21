@@ -1,0 +1,33 @@
+{
+  "frameGrid" : {
+    "size" : [48, 48],
+    "dimensions" : [22, 1],
+    "names" : [
+      [ "default.0", "default.1", "default.2", "default.3", "default.4", "default.5", "default.6", "default.7", "default.8", "default.9", "default.10", "default.11", "default.12", "default.13", "default.14", "default.15", "default.16", "default.17", "default.18", "default.19", "default.20", "default.21" ]
+    ]
+  },
+  "aliases" : {
+    "default.default" : "default.12",
+    "replicator.1" : "default.0",
+    "replicator.2" : "default.2",
+    "replicator.3" : "default.3",
+    "replicator.4" : "default.4",
+	"replicator.5" : "default.5",
+	"replicator.6" : "default.6",
+	"replicator.7" : "default.7",
+	"replicator.8" : "default.8",
+	"replicator.9" : "default.9",
+	"replicator.10" : "default.10",
+	"replicator.11" : "default.11",
+	"replicator.12" : "default.12",
+	"replicator.13" : "default.13",
+	"replicator.14" : "default.14",
+	"replicator.15" : "default.15",
+	"replicator.16" : "default.16",
+	"replicator.17" : "default.17",
+	"replicator.18" : "default.18",
+	"replicator.19" : "default.19",
+	"replicator.20" : "default.20",
+	"replicator.21" : "default.21"
+  }
+}

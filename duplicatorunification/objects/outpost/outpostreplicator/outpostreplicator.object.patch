@@ -1,0 +1,110 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "An combination replicator, including ^orange;accelerator^white;, ^blue;manipulator^white;, ^pink;separator^white;, and ^gray;constructor^white; addons."
+    },
+    {
+        "op": "add",
+        "path": "/scripts",
+        "value": [
+            "/objects/crafting/upgradeablecraftingobjects/upgradeablecraftingobject.lua"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/maxUpgradeStage",
+        "value": 2
+    },
+    {
+        "op": "add",
+        "path": "/startingUpgradeStage",
+        "value": 1
+    },
+    {
+        "op": "add",
+        "path": "/upgradeStages",
+        "value": [
+            {
+                "animationState": "replicatorState",
+                "itemSpawnParameters": {
+                    "price": 350,
+                    "inventoryIcon": "/objects/outpost/outpostreplicator/outpostduplicator/outpostduplicatoricon.png",
+                    "placementImage": "/objects/outpost/outpostreplicator/outpostduplicator/outpostduplicatoricon.png:default",
+                    "placementImagePosition": [
+                        -24,
+                        0
+                    ],
+                    "description": "An combination replicator, including ^orange;accelerator^white;, ^blue;manipulator^white;, ^pink;separator^white;, and ^gray;constructor^white; addons.",
+                    "shortdescription": "^orange;Advanced Replicator^white;;"
+                },
+                "interactData": {
+                    "config": "/interface/windowconfig/craftinganvil.config",
+                    "paneLayoutOverride": {
+                        "windowtitle": {
+                            "title": " Advanced Replicator",
+                            "subtitle": " ^#b9b5b2;Armour and weapons",
+                            "icon": {
+                                "file": "/interface/crafting/craftinganvil3.png"
+                            }
+                        }
+                    },
+                    "filter": [
+                        "craftinganvil",
+                        "craftinganvil2",
+                        "craftinganvil3",
+                        "craftingaccelerator",
+                        "craftingmanipulator",
+                        "craftingseparator",
+                        "craftingconstructor"
+                    ],
+                    "upgradeMaterials": [
+                        {
+                            "item": "pf_duplicatoraddon",
+                            "count": 1
+                        }
+                    ]
+                },
+                "learnBlueprintsOnPickup": [],
+                "upgradeSoundEffect": "fanfare2",
+                "upgradeParticleEffect": "dust"
+            },
+            {
+                "animationState": "outpostduplicator",
+                "itemSpawnParameters": {
+                    "price": 350,
+                    "inventoryIcon": "/objects/crafting/outpost/outpostreplicator/outpostduplicator/outpostduplicatoricon.png",
+                    "placementImage": "/objects/crafting/outpost/outpostreplicator/outpostduplicator/outpostduplicatoricon.png:default",
+                    "placementImagePosition": [
+                        -24,
+                        0
+                    ],
+                    "description": "This is capable of crafting everything a standard Replicator with a Duplicator addon can.",
+                    "shortdescription": "^orange;Advanced ^purple;Duplicator^white;"
+                },
+                "interactData": {
+                    "config": "/interface/windowconfig/craftinganvil.config",
+                    "paneLayoutOverride": {
+                        "windowtitle": {
+                            "title": " Advanced Duplicator",
+                            "subtitle": " ^#b9b5b2;The god-like ability to work with any mineral.",
+                            "icon": {
+                                "file": "/interface/crafting/pf_duplicatoricon.png"
+                            }
+                        }
+                    },
+                    "filter": [
+                        "craftinganvil",
+                        "craftinganvil2",
+                        "craftinganvil3",
+                        "craftingaccelerator",
+                        "craftingmanipulator",
+                        "craftingseparator",
+                        "craftingconstructor",
+                        "pf_craftingduplicator"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+{
+  "version" : "1.0",
+  "author" : "Partonetrain",
+  "tags" : "Furniture and Objects|Armor and Clothes",
+  "description" : "Adds an upgrade to the Advanced Replicator that lets it use Duplicator (from Project Ancient Cosmos) recipes.",
+  "name" : "duplicatorunification",
+  "friendlyName" : "Duplicator Unification",
+  "priority" : 107331,
+  "includes" : ["replicatorunification"]
+}

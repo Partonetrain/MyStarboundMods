@@ -1,0 +1,12 @@
+{
+  "version" : "1.0",
+  "author" : "Partonetrain",
+  "tags" : "Furniture and Objects|Armor and Clothes",
+  "description" : "Unifies replicator content and recipes among various mods:\n\n-More Outpost Objects' Advanced Replicator now includes Constructor's Table recipes from Project Redemption\n-the Advanced Replicator from More Outpost Objects's sprite now indicates it crafts Constructor objects and has its Accelerator art recolored Orange like Violium Rework\n-Advanced Replicator recipe tweaked to require all 4 constructor objects\n-Project Redemption's prismatic armors now require Refined Aegisalt, just like how all other StarburstRework tier 5 armors do",
+  "name" : "replicatorunification",
+  "friendlyName" : "Replicator Unification",
+  "priority" : 7331,
+  "steamContentId" : "3567771458",
+  "link" : "steam://url/CommunityFilePage/3567771458",
+  "includes" : ["StarburstRework", "StarburstReworkVioliumEdit", "Project Redemption"]
+}
