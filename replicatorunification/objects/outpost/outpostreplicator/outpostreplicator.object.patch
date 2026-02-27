@@ -1,12 +1,36 @@
 [
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "An all-in-one replicator, including ^orange;accelerator^white;, ^blue;manipulator^white;, ^pink;separator^white;, and ^gray;constructor^white; addons."
-    },
-	{
-        "op": "add",
-        "path": "/interactData/filter/6",
-        "value": "craftingconstructor"
-    }
+    [
+        {
+            "op": "test",
+            "path": "/interactData",
+            "inverse": false
+        },
+        {
+            "op": "replace",
+            "path": "/description",
+            "value": "An all-in-one replicator, including ^orange;accelerator^white;, ^blue;manipulator^white;, ^pink;separator^white;, and ^gray;constructor^white; addons."
+        },
+        {
+            "op": "add",
+            "path": "/interactData/filter/6",
+            "value": "craftingconstructor"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/interactData",
+            "inverse": true
+        },
+        {
+            "op": "replace",
+            "path": "/description",
+            "value": "An all-in-one replicator, including ^orange;accelerator^white;, ^blue;manipulator^white;, ^pink;separator^white;, and ^gray;constructor^white; addons."
+        },
+        {
+            "op": "replace",
+            "path": "/upgradeStages/0/itemSpawnParameters/description",
+            "value": "An all-in-one replicator, including ^orange;accelerator^white;, ^blue;manipulator^white;, ^pink;separator^white;, and ^gray;constructor^white; addons."
+        }
+    ]
 ]
