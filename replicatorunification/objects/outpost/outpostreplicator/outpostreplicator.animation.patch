@@ -1,0 +1,31 @@
+[
+  [
+    {
+      "op" : "test",
+      "path": "/animatedParts/stateTypes/replicatorState/states/loop/frames",
+      "value" : 48
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/stateTypes/replicatorState/states/loop/frames",
+      "value": 64
+    }
+  ],
+  [
+    {
+      "op" : "test",
+      "path": "/animatedParts/stateTypes/stage/states/advanced/frames",
+      "value" : 48
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/stateTypes/stage/states/advanced/frames",
+      "value": 64
+    },
+    {
+      "op": "replace",
+      "path": "/animatedParts/stateTypes/stage/states/ancient/frames",
+      "value": 64
+    }
+  ]
+]
